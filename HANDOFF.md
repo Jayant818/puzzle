@@ -1,4 +1,4 @@
-# HANDOFF — MrBeast $10,000 hidden-video puzzle (updated 2026-09-06)
+# HANDOFF — MrBeast $10,000 hidden-video puzzle (updated 2026-09-08)
 
 ## Latest Result: Read Before The Historical Notes
 
@@ -64,6 +64,12 @@ counts in five consecutive frames confirm this. See `VIDEO_AUDIT.md` and run
   with `python3 tools/verify_dossier.py` (0 failures on 2026-09-07). That pass found no answer
   but did correct four documentation errors and confirm that **251634 is the only clue on
   either chain with no role**; see `FINDINGS.md` section 30.
+- September 8 DoctorXOR channel refresh: same 21 public video IDs/order and one
+  Short. The walkthrough description has additional links relative to our cache:
+  Colin's working spreadsheet and an August 5 podcast interview. The inspected
+  spreadsheet tabs corroborate the old hunt's fourth answer TOWARDS; the podcast
+  audio remains unreviewed. No new 251634 derivation. See `FINDINGS.md` section 31;
+  the September 7 review packet has not been regenerated with this addendum.
 - Everything below is historical and may contain conclusions superseded above.
 
 Read this first. It is the single entry point for anyone (human or AI agent) picking this up. Detailed logs: `FINDINGS.md` (chronological, everything tried), `candidates.md` (guess shortlist), `council.md` (persona council verdict). Reproducible material lives in `work/`, scripts in `tools/`.

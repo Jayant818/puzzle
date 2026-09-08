@@ -809,3 +809,90 @@ as a fork. One community solver noted the same ambiguity in passing without purs
 This is speculation and is labelled as such in the dossier.
 
 **No answer was derived, no entry was submitted, and nobody was contacted.**
+
+## 31. DoctorXOR channel refresh, 2026-09-08
+
+The user supplied https://www.youtube.com/@doctorxor. This is the same channel
+already investigated in sections 27-28, not a newly identified alternative
+account. A fresh public metadata check found additional description links worth
+preserving, but no new upload or independently derived blue answer.
+
+### Upload comparison
+
+- The Videos tab still returns **21 videos**, with exactly the same video IDs
+  **in the same order** as `work/yt/doctorxor_uploads.txt`.
+- The Shorts tab returns the same single Short, `NNuMfu0nr7M`, titled
+  *Is This Paradox Puzzlehunt?*.
+- Fourth-oldest remains `2asPmHvlkWM`, *140 - Mirror Level 3 Walkthrough
+  (No deaths)*. Fourth-newest remains `IU89_plbom0`, the *Order of the Sinking
+  Star* demo. Earlier inspection limits still apply: the former had sampled
+  visual coverage, the latter metadata/caption coverage, not a full visual audit.
+- Two titles differ from the old flat upload list. `XCOkRKUe3Nc` now reads
+  *I Solved MrBeast's $1,000,000 Puzzle*, previously *How to Solve a $1,000,000
+  Puzzle*. `IU89_plbom0` now reads *How to Accidentally Win a Puzzle Duel -
+  Order of the Sinking Star (Demo)*, previously *Will This Be the Greatest
+  Puzzle Game Ever? - Order of the Sinking Star (Demo)*.
+- **Do not date both title changes to this pass.** The separately cached
+  `xor_fourth_latest.info.json` already contains the latter title. Its title,
+  description, date and duration exactly match the fresh per-video metadata.
+  A difference from an older listing is not evidence of a new puzzle signal.
+- `aFo8P073eSY` (*The Ramblings of a Million Dollar Winner*) has the same
+  description, title, date and duration as `ramblings.info.json`.
+
+### Additional links in the walkthrough description
+
+The current description of https://www.youtube.com/watch?v=XCOkRKUe3Nc differs
+from `work/yt/colin.info.json`: it adds thanks to 40 teammates and links to the
+MrBeast2 puzzle video, the old hunt's official solution PDF, a published Google
+Sheet, and a podcast interview. The exact edit time is not established. These
+links are additions relative to our cached description, not proof the linked
+material itself is new.
+
+1. **Colin's working spreadsheet:**
+   https://docs.google.com/spreadsheets/d/e/2PACX-1vSjNm2FMKSHMJd6P0S68ThM3oxZHuY-TMNgQJiIXkXKMgBFXfpX9Rv_uV-OP3UQT01qsOMJWChh_wTP/pubhtml
+   The document is titled *MrBeast/Salesforce Super Bowl Puzzle*. Its published
+   index lists Phase 0, Phase 1, grid, and numbered puzzle tabs. This pass read
+   **only the index, Phase 0 and #4**, not every sheet. Phase 0 contains the
+   known nine-word location instruction. Its fourth row is Experiences ->
+   **TOWARDS**. Tab #4 shows the street-intersection/city-grouping solution
+   producing TOWARDS. This is primary corroboration of the already recorded
+   old-playlist route, not a new six-letter extraction. It does not establish
+   that FOURTH UPLOAD means the fourth entry of that old playlist.
+
+2. **Hello, Puzzlers! interview:**
+   https://www.iheart.com/podcast/1119-hello-puzzlers-114688861/episode/behind-the-scenes-on-a-worldwide-1-million-puzzle-340335517/
+   The episode page dates *Behind the Scenes on a Worldwide $1 Million Puzzle*
+   to **August 5, 2026**, with a displayed duration of 58 minutes. Its description
+   says A.J. interviews designer Mike Selinker and is later joined by the
+   winner. It concerns the earlier million-dollar hunt and predates the
+   September 2 launch of this $10,000 puzzle. **Only the episode page was
+   inspected; no audio listening or full transcript review occurred.** It is
+   a potential source on Colin's solving approach, not evidence that he
+   disclosed this puzzle's final step there.
+
+The original walkthrough's "Riddle #1" description paragraph was already in
+the cached metadata and earlier notes; it is not a newly discovered clue.
+
+### Saved evidence and limits
+
+- `work/yt/doctorxor_sep8_DoctorXOR - Videos.txt` and
+  `work/yt/doctorxor_sep8_DoctorXOR - Shorts.txt`: current ordered ID/title lists.
+- Matching `.info.json` files: channel/tab metadata. These playlist metadata
+  files do not contain the entry lists; use the text snapshots for comparisons.
+- `work/yt/doctorxor_sep8_{XCOkRKUe3Nc,aFo8P073eSY,IU89_plbom0}.info.json`
+  and matching `.description` files: fresh per-video metadata and descriptions.
+- `work/yt/doctorxor_sep8_phase0_sheet.html`: the spreadsheet's published index,
+  despite the initial filename. `doctorxor_sep8_sheet_phase0.html` and
+  `doctorxor_sep8_sheet_puzzle4.html` contain the two inspected sheet bodies.
+- `work/yt/doctorxor_sep8_podcast.html`: the episode page, not a transcript.
+- These are current public listings, not a reconstruction of channel order on
+  launch day. Deleted, unlisted, private, and separate live-stream uploads are
+  not covered by the Videos/Shorts comparison. No new comments audit occurred.
+- The September 7 review packet and evidence ZIP remain dated snapshots; they
+  have not been regenerated to include this addendum.
+
+**Result:** The new description links improve source coverage but supply no
+reproducible role for **251634**. FANTASTIC remains independently solved;
+HEDWIG remains a community-checksum-corroborated candidate with the final
+derivation missing. No additional submission is justified by this pass.
+No entry was submitted and nobody was contacted.
