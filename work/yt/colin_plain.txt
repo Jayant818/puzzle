@@ -1,0 +1,824 @@
+00:00:00.080 Is this Colin? How's it going? Nice to
+00:00:02.800 MEET YOU. THIS IS YOUR [screaming]
+00:00:04.240 MILLION DOLLARS.
+00:00:06.240 &gt;&gt; After all that happened, the number one
+00:00:08.080 question I kept getting, of course, was,
+00:00:09.840 "How do you solve a million-dollar
+00:00:11.280 puzzle? What was the final solution? And
+00:00:13.360 why was the vault code R62 L3905 L7362
+00:00:17.920 3093123
+00:00:19.920 0. So, initially, I decided I would make
+00:00:22.880 a series of walkthrough videos to go
+00:00:24.720 through all the details. I started
+00:00:26.400 making a video that just focused on the
+00:00:28.000 first nine puzzles, which were
+00:00:29.760 technically optional to solve in case
+00:00:31.679 you hear me refer to them later as phase
+00:00:33.760 zero. And these nine puzzles were some
+00:00:35.520 of my favorites because they were in a
+00:00:37.120 popular puzzle hunt style that I like to
+00:00:39.920 describe with three steps: exploration,
+00:00:42.719 execution, and extraction. Since this is
+00:00:45.520 just how I like to think about puzzle
+00:00:47.039 hunts, I'll say a little bit about what
+00:00:48.399 each of those steps means. Exploration
+00:00:50.800 is just finding patterns and recognizing
+00:00:52.960 what type of puzzle you're looking at.
+00:00:54.559 Execution is the fun part. It's where
+00:00:56.000 all the work happens. It's what most
+00:00:57.600 people generally associate with a
+00:00:59.600 puzzle. Putting together a jigsaw,
+00:01:01.359 filling in a cross word, doing a maze.
+00:01:03.520 Extraction is really the unique step
+00:01:05.119 that I think is most strongly tied to
+00:01:07.280 the puzzle hunt format. And that's
+00:01:09.040 finding or otherwise decoding the answer
+00:01:11.200 to the puzzle, a secret word or phrase.
+00:01:13.680 It can get pretty creative, but very
+00:01:15.760 often it involves indexing, which means
+00:01:17.600 using numbers as positions in words. So
+00:01:20.400 if I have the word fox and the number
+00:01:22.320 three, I can combine them to take the
+00:01:24.640 third letter x. Another very common
+00:01:26.479 technique is to get letters from numbers
+00:01:28.080 directly by using alpha numeric where 1
+00:01:30.640 is a, two is b, three is c, and so on
+00:01:33.520 all the way down to 26 which is z.
+00:01:36.240 Anyway, I finished a video for the first
+00:01:38.000 nine puzzles and then I learned that Mr.
+00:01:40.479 Beast was also planning to do the same
+00:01:42.159 thing. So naturally, I put my project on
+00:01:44.560 the back burner. And if you're watching
+00:01:46.320 this, then Mr. Beast has released what
+00:01:48.560 is probably the coolest and craziest
+00:01:50.799 puzzle breakdown of all time, and I will
+00:01:52.799 link it in the description. He covers so
+00:01:54.720 much that I don't really feel an
+00:01:56.159 incentive to duplicate all that content
+00:01:57.759 in a different voice. However, when I
+00:02:00.079 made that video, I wanted to describe
+00:02:02.000 the process and approach to this hobby
+00:02:04.240 as best I could, so you could see
+00:02:06.159 yourself figuring everything out and
+00:02:08.239 enjoying it in the way I think so many
+00:02:10.399 people did. And because of the puzzle
+00:02:13.440 hunt style I'm mentioning, there ended
+00:02:15.200 up being a lot of leftover value in my
+00:02:17.520 opinion for that specific set of intro
+00:02:19.680 puzzles that I think Mr. Beast couldn't
+00:02:21.440 really go into without starting a show
+00:02:22.959 called Beast Puzzle Games. So, this is
+00:02:25.040 an abridged version of a video I almost
+00:02:27.520 scrapped, a detailed walkthrough of how
+00:02:29.520 to begin solving the Million-Dollar
+00:02:30.959 Puzzle. Feel free to leave comments and
+00:02:32.800 especially questions about these in
+00:02:34.400 later puzzles if there's enough
+00:02:36.000 feedback. I think it'd be fun to cover
+00:02:37.680 any remaining minutia on Twitch and
+00:02:39.840 present my team's worksheet and or a
+00:02:42.239 really nice writeup that I know is out
+00:02:44.239 there from another team with their
+00:02:45.680 permission. And now here's me casually
+00:02:48.800 streaming puzzles from a hotel room. I
+00:02:51.120 should warn you that the production
+00:02:52.239 qualities, where was I? Million-dollar
+00:02:54.000 playlist, nine videos, nine image links.
+00:02:57.440 Most of the image links are now dead,
+00:02:59.760 but early on a Reddit user collected all
+00:03:02.400 of the puzzles and put them in the Mr.
+00:03:04.319 Beast subreddit. So, here they are. You
+00:03:07.280 can print them out. They're most of them
+00:03:09.680 work very well as pen and paper puzzles,
+00:03:11.680 and they're fun that way. So, if they
+00:03:12.879 look fun to you, uh, go ahead and try
+00:03:14.640 that. But what you just saw is the
+00:03:16.800 entirety of phase zero. And this is
+00:03:19.440 going to be the first puzzle, 100 Wells
+00:03:21.440 in Africa. This is a word search. And
+00:03:24.480 it's unconventional, obviously, because
+00:03:26.239 of all the water in the grid, but also
+00:03:28.239 instead of a plain word list, we have
+00:03:30.799 clues. And it might feel natural to try
+00:03:32.720 and answer the clues and then find those
+00:03:34.640 words in the grid, but as you look at
+00:03:36.560 them, they're too vague to answer in
+00:03:39.040 most cases. So, a type of boat, a US
+00:03:41.440 landmark, these are not specific enough
+00:03:43.840 to get good answers to. So, I found it
+00:03:46.159 easier to look at the grid blindly and
+00:03:48.560 find words and then go back to the clues
+00:03:50.959 and see if I could relate them to find
+00:03:52.640 out what was going on here. There's
+00:03:54.560 definitely a level of trust you have to
+00:03:56.480 have with puzzle hunts in that the
+00:03:59.120 designers want you to have fun. Things
+00:04:01.200 are not as random as they seem. Usually,
+00:04:03.519 there's a theme or something secret
+00:04:05.439 going on that's going to form a pattern
+00:04:07.439 and tie it all together. So, when I
+00:04:09.439 looked at the grid, I found robin on
+00:04:12.480 this diagonal, wink, crossing robin, and
+00:04:15.599 train in the upper right hand corner.
+00:04:17.600 There are a few other red herring words
+00:04:19.600 in the grid, but these are the ones that
+00:04:20.880 are going to be helpful. So, for me,
+00:04:22.720 coming back to the clues, I saw a
+00:04:24.880 literary outlaw, two words, and thought
+00:04:27.199 of Robin Hood. And then I looked back at
+00:04:29.840 Robin and asked, well, where's Hood? Why
+00:04:32.479 is that not in the grid? And there is a
+00:04:35.440 letter D after this water droplet that's
+00:04:37.840 sort of in the way. I had a thought
+00:04:39.759 there, but I wanted to confirm it. And I
+00:04:42.639 went to work with train. The train
+00:04:44.400 worked as a child's toy, but it says
+00:04:46.000 it's two words and hyphenated. So to
+00:04:48.479 make it a little bit longer, you can
+00:04:50.080 think of choo choo train. And that
+00:04:52.479 pretty much makes the pattern here,
+00:04:54.400 which is that water in the grid
+00:04:56.960 represents the letters H O. And if you
+00:05:00.160 ask why, if you haven't thought of it
+00:05:01.759 already, that's because the chemical
+00:05:03.520 formula for water is H2O. And yes, it's
+00:05:06.880 two H's and one O, not one H and two
+00:05:09.919 O's. Don't think about it too hard.
+00:05:11.600 They're just being funny. Wink is a
+00:05:13.039 little bit trickier, but that ends up
+00:05:14.240 being hoodwink for deceive. And so on.
+00:05:17.039 and you can find a word that contains
+00:05:19.120 the letters H O for every clue and then
+00:05:21.759 find those all in the grid. So, this is
+00:05:23.600 the final word list. I've gone ahead and
+00:05:25.440 marked all of the words in the grid in
+00:05:27.759 green. And I've also circled the only
+00:05:30.720 two water droplets that weren't used in
+00:05:33.120 red because they're about to be
+00:05:34.320 important. Some of the more interesting
+00:05:35.759 clues were a cold noise, meaning a noise
+00:05:38.720 you make when you have a cold. Uh, hooer
+00:05:42.000 was definitely a Google for me. That
+00:05:43.919 just means anyone from the state of
+00:05:45.280 Indiana. shook took me a minute just
+00:05:47.680 because not only is it slang, but it has
+00:05:50.320 the fewest letters. So, there's only two
+00:05:52.080 other letters in the grid to find here
+00:05:54.560 on the bottom row. And then I think the
+00:05:56.240 last ones I got were definitely hurray
+00:05:58.560 because you also have woohoo as an
+00:06:00.240 option and a foui, which I knew from
+00:06:02.880 Donald Duck, but I think I had something
+00:06:05.120 written down like shoot. It really
+00:06:06.800 helped to eliminate other words from the
+00:06:08.560 grid. Exploration was figuring out that
+00:06:11.440 this was a word search and that there
+00:06:13.199 was a theme with the clues. execution
+00:06:15.520 was finding all of the words. And now
+00:06:17.759 it's time for extraction. In this case,
+00:06:19.600 there are two sets of unused information
+00:06:22.560 from this puzzle. The more obvious one
+00:06:24.800 is all of the unused letters in the
+00:06:27.039 grid. So reading those off, you get
+00:06:29.759 count H2O into each word. That's where
+00:06:33.120 the droplets I've circled in red come
+00:06:34.639 in. They represent the number two in
+00:06:36.560 H2O. And that's actually a hint for what
+00:06:38.800 we're going to do next, which is
+00:06:41.199 indexing the number of water droplets
+00:06:44.160 into the words that contain them. So the
+00:06:46.720 very first clue, a chew, it reads up
+00:06:49.280 here in this column, and it has one
+00:06:51.680 water droplet. So that's going to be the
+00:06:53.759 number one. And the first letter is a.
+00:06:56.800 It's the same for Robin Hood. Robin
+00:06:58.720 Hood, if you recall, had one water
+00:07:00.319 droplet. So that's going to be a one,
+00:07:02.319 which is the first letter R. And I've
+00:07:04.400 covered it on the grid here, but there
+00:07:06.560 is a plus sign in the bottom rightmost
+00:07:09.440 set of water droplets. And that's
+00:07:10.720 because in Choo Choo Train, you have two
+00:07:13.520 sets of water and they have to be added
+00:07:15.440 together 6 plus 6 to make 12. So the
+00:07:18.479 12th letter of Choo Choo Train is I.
+00:07:21.440 And this is the full list of indexes and
+00:07:24.400 it reads out answer is every. So the
+00:07:27.440 answer to the first puzzle is just the
+00:07:29.599 word every. Moving on to puzzle number
+00:07:32.319 two, changing the lives of 600
+00:07:34.639 strangers. This one is a sudoku. If you
+00:07:37.360 haven't seen a sudoku before, they
+00:07:39.440 contain the numbers 1 through nine once
+00:07:41.680 in every row, column, and 3x3 box. So,
+00:07:45.440 for this puzzle, the numbers 1 through
+00:07:46.880 nine have been replaced by nine letters
+00:07:49.599 given in the bottom right of the puzzle
+00:07:51.360 in blue. And I won't solve the whole
+00:07:53.360 puzzle in this video, but early on there
+00:07:56.160 is a pretty difficult step that I wanted
+00:07:58.560 to go over. And it's after you put in
+00:08:00.800 the letter C and the letter N into the
+00:08:03.280 grid, you have to look at the letters A
+00:08:05.520 and H. So this A right here blocks an A
+00:08:11.280 from these two squares in the upper
+00:08:13.680 right box of the grid. So I'm going to
+00:08:15.440 put an A in these two and lowerase to
+00:08:17.759 indicate it has to be in one of these
+00:08:19.440 two squares.
+00:08:21.520 Similarly, the letter L here is blocked
+00:08:25.039 from those two squares. So, these two
+00:08:27.520 squares have to be the letters A and L.
+00:08:30.240 And the only two letters missing from
+00:08:32.000 this whole box are E and H,
+00:08:37.360 which is going to come in handy in a
+00:08:38.800 moment. And so, the first thing to do
+00:08:40.959 with this information is look at the
+00:08:43.839 second column. And an A cannot be in
+00:08:46.480 this cell because of these. An A cannot
+00:08:50.240 be in this cell. So the only box left
+00:08:52.560 for an A in the second column is this
+00:08:54.720 right here. And next I'm going to look
+00:08:56.880 at the letter H. So these cells cannot
+00:08:59.839 be H's. And we have an H that has to be
+00:09:03.600 in one of these two cells in the upper
+00:09:06.480 middle box because of the rest here. You
+00:09:10.320 can't have an H here. You can't have an
+00:09:12.080 H here. So there has to be an H in one
+00:09:14.880 of these two cells. And now if I ask
+00:09:17.040 where can an H be in the second row, it
+00:09:20.959 can't be anywhere in here because of
+00:09:23.839 this. It can't be anywhere in here. And
+00:09:26.240 there's an H blocking this cell. So this
+00:09:28.640 cell has to be an H. And from there, I
+00:09:30.720 think the Sudoku gets pretty solvable.
+00:09:33.279 But that definitely took me a minute.
+00:09:35.120 Here is the final solution to the
+00:09:36.880 Sudoku. And the extraction is pretty
+00:09:39.120 tricky. You have to actually pay
+00:09:40.640 attention at the beginning before you
+00:09:42.240 start solving that the letters given to
+00:09:45.040 you are in this checkerboard pattern
+00:09:49.120 here.
+00:09:52.399 And the answer to the puzzle is in these
+00:09:55.040 missing checkerboard cells. And on the
+00:09:57.839 right in my sheet, you can see that the
+00:10:00.880 answer is going to be the word
+00:10:02.320 challenge. Puzzle number three. I'm
+00:10:04.640 going to have to start being faster with
+00:10:05.920 these. This one is referencing a list of
+00:10:09.040 TV shows on the left. And on the right,
+00:10:11.200 we have more crossword clues like in the
+00:10:13.440 first puzzle. Here, you just want to try
+00:10:15.360 and answer as many clues as you possibly
+00:10:17.440 can to try and find the pattern between
+00:10:19.920 them. The debris at the top isn't really
+00:10:22.320 helpful until later. The starting point
+00:10:24.240 they set up for you here is pretty cool.
+00:10:26.160 It's third to last row where the reality
+00:10:29.120 show being referenced is the Beast
+00:10:30.880 Games. And Jimmy and Mark's Ocean
+00:10:32.959 Charity is in the title of the puzzle,
+00:10:35.519 Team C's. And the thing to notice here
+00:10:38.000 is that all of the letters in Team C's
+00:10:40.720 are also in Beast Games with the
+00:10:43.040 exception of the capital B and the
+00:10:45.200 capital G. The capitals are irrelevant,
+00:10:47.200 but it in my opinion, it just makes it
+00:10:49.040 very easy to notice this. [laughter]
+00:10:52.240 It's me, Dr. Xnore. And in my opinion,
+00:10:55.519 your opinion is bad. The first letters
+00:10:57.360 are very relevant. Every show is two
+00:10:59.440 words. The first letters are what make
+00:11:00.959 the difference between the clue words.
+00:11:02.880 And they even call it initial removed
+00:11:05.680 debris. I don't know how I didn't see
+00:11:07.360 that before. Carry on. And I think the
+00:11:10.000 next one I used to confir
+00:11:11.040 &gt;&gt; No, no, wait. I'm not done. What's crazy
+00:11:13.040 is in two puzzles from now, I'm going to
+00:11:15.200 say something along the lines of you
+00:11:16.880 should always try more specific ideas
+00:11:18.720 before general ones. What an imbeel.
+00:11:21.040 What an ultra maroon. It was opera
+00:11:24.560 paired with top gear. And then anything
+00:11:27.200 that takes up space is matter which goes
+00:11:29.680 with get smart. Each of these TV shows
+00:11:32.000 needs to lose exactly two letters to
+00:11:34.399 become one of the words on the right
+00:11:36.000 side. The research is definitely
+00:11:37.839 difficult. The internet movie database
+00:11:40.320 IMDb is going to be your best friend
+00:11:42.399 here. And towards the end, you can use
+00:11:44.079 the debris to try and take letters away
+00:11:46.079 from any extra TV shows you have or add
+00:11:49.040 letters to any of the clues that you
+00:11:50.640 have to try and make the last few pairs
+00:11:52.640 work. I kind of just ignored the numbers
+00:11:55.040 on the right hand side of the puzzle at
+00:11:56.640 the beginning, you can try a few things
+00:11:58.320 with them. But when nothing really works
+00:12:00.959 out and you have other work to do, uh,
+00:12:03.600 you should go do that work. Each of
+00:12:05.440 those pairs of numbers is used to index
+00:12:08.079 into the TV shows on the left hand side.
+00:12:11.519 And to get the order, you have to notice
+00:12:14.320 that the TV shows are in alphabetical
+00:12:17.440 order by genre, starting with A for
+00:12:19.440 action and going to S for superhero. And
+00:12:22.880 that indicates that the clues on the
+00:12:25.360 right hand side, which are sort of in an
+00:12:27.200 unpredictable order, are the order that
+00:12:29.360 you need to use. So here is the final
+00:12:32.320 list of TV shows and words. I've kept
+00:12:35.120 the original order of the words and
+00:12:37.600 reordered the shows to match them. What
+00:12:40.000 if has six letters and if you remove IW,
+00:12:43.600 you get all of the letters in half. And
+00:12:46.240 then the numbers for that clue axis
+00:12:48.720 handle are three and four. I go back to
+00:12:51.040 the TV show and take the third and
+00:12:53.279 fourth letters A and T. I read this all
+00:12:56.480 the way down and I get a term for chief
+00:12:59.040 roles which is leads or metals with
+00:13:03.120 symbol PB which is leads. So the answer
+00:13:06.240 is leads or leads L E A Ds. Next up, the
+00:13:09.920 first puzzle I cannot take credit for
+00:13:11.600 directly. Number four is $1 to $500,000
+00:13:15.760 experiences. And the flavor text at the
+00:13:17.839 top says, "Where did I go?" This puzzle
+00:13:20.959 is a geography puzzle. The rectangles
+00:13:24.639 are meant to look like street signs. And
+00:13:27.680 so what's going on here is they've taken
+00:13:29.760 two street signs and overlapped them. So
+00:13:32.720 it's kind of like you're looking at one
+00:13:34.399 letter through the stencil or outline of
+00:13:36.959 the other letter. I was glad someone
+00:13:38.800 else did this. It's a little bit of a
+00:13:40.320 headache to look at these colors and
+00:13:42.160 strange shapes for too long. The goal is
+00:13:44.560 to get two words out of each rectangle.
+00:13:47.680 So the very one at the top in red is
+00:13:50.160 Danesberry and Glen Karen if I'm
+00:13:52.399 pronouncing those right. You want to
+00:13:54.160 sort all of these signs in rainbow
+00:13:55.839 order. And then of course the question
+00:13:57.360 is how do I extract the answer? I
+00:13:59.120 imagine once you have all the locations
+00:14:00.720 of one color, you do a little bit of
+00:14:02.959 digging and write down where the
+00:14:05.760 intersection of those streets is, what
+00:14:07.920 city, what county, what municipality,
+00:14:10.399 what state, province and country. And
+00:14:13.360 the pattern ends up being in the city
+00:14:16.079 names. The first three in red are
+00:14:19.199 located in Toronto, Toledo, and Tempe.
+00:14:22.160 The next three orange intersections are
+00:14:24.720 located in Owensboro, Ottawa, and
+00:14:27.040 Orlando. And all three of the cities
+00:14:30.399 start with the same letter. So these
+00:14:32.480 start with W, A, R, D, S. The answer to
+00:14:37.040 puzzle number four is tors. Number five,
+00:14:40.320 Pokémon Go stereotypes. Each of the cage
+00:14:43.199 bars at the bottom has a number in it.
+00:14:46.639 And Pokemon have a unique ID. And when
+00:14:49.839 you look up these Pokemon, they each fit
+00:14:51.600 very nicely into their respective boxes.
+00:14:54.639 So the task here is to put the cage bars
+00:14:56.959 in the grid to form a cage that is a
+00:14:59.440 loop around the little man in the grid.
+00:15:02.079 The second assumption to make is that
+00:15:04.480 the blue boxes are intersections of the
+00:15:07.680 clues. Without that, I think there is
+00:15:10.560 too much to work with. With puzzles like
+00:15:12.480 this, you always want to try specific
+00:15:14.079 ideas before more general ones just to
+00:15:16.560 see if they work. This is the amount of
+00:15:18.720 progress I made using just logic without
+00:15:21.920 any guessing whatsoever. The way you get
+00:15:24.000 these pieces is first by finding letters
+00:15:26.720 that only occur twice. So, the letter A
+00:15:29.920 is only in one down clue and one across
+00:15:32.320 clue. So, you know, those have to be put
+00:15:34.160 together that way. W Trio is interesting
+00:15:37.120 because we're not playing Scrabble. We
+00:15:38.880 don't want to form new words other than
+00:15:41.760 the Pokemon. So, we shouldn't have any 2
+00:15:44.079 by twos. And that means that in order to
+00:15:46.959 have an I and an O intersect next to
+00:15:49.120 each other, one word has to end in I and
+00:15:51.680 the other start with O, or one word has
+00:15:54.399 to start with I and the other one has to
+00:15:56.079 end with O. And this is the only unique
+00:15:58.639 way to do that. And lastly, there are
+00:16:00.959 two down clues that have three blue
+00:16:03.759 boxes. and two across clues that only
+00:16:06.800 have one blue box. So those are like
+00:16:09.120 branches on the loop and those end up
+00:16:11.040 being very unique, easy connections to
+00:16:13.040 make. From there, you want to put all
+00:16:14.320 the pieces together and this is the
+00:16:16.320 final solution. It's the first one I
+00:16:18.160 got. I don't know if there are others
+00:16:19.759 that maybe don't fit in the grid and you
+00:16:21.680 have to do it again. I took a couple of
+00:16:23.440 guesses and this is what I got. And I
+00:16:25.199 can prove that this is the correct
+00:16:26.399 solution by copying the format of the
+00:16:28.560 grid where that red square is the little
+00:16:31.040 man
+00:16:32.880 and pasting that here. The red square is
+00:16:36.160 indeed inside the loop of words that I
+00:16:38.160 have made. And now to get the answer is
+00:16:40.959 a little bit tricky, but as long as
+00:16:42.959 you've kept the blue boxes around, they
+00:16:45.279 are what you need to look at. The weird
+00:16:46.800 thing is you're not reading in a loop or
+00:16:49.120 even left, right, top to bottom. There
+00:16:50.880 are sort of two columns here. So if you
+00:16:52.959 start with this S in the top left and
+00:16:55.199 read downwards, you can see the word
+00:16:57.440 solution and then the I jumps to the S
+00:17:00.399 at the top of the puzzle again for
+00:17:02.000 solution is location. So location is the
+00:17:05.919 answer to puzzle number five. Puzzle
+00:17:08.240 number six is a standard logic puzzle
+00:17:10.160 called tents. In this case, the rules
+00:17:11.839 are written at the top of the puzzle.
+00:17:13.360 The goal is to place one tent next to
+00:17:15.439 each tree such that no tents touch even
+00:17:17.600 diagonally. One thing to be careful of
+00:17:19.679 is that even though there's only one
+00:17:21.280 tent per tree, a tree is allowed to be
+00:17:23.760 next to multiple tents and a tent is
+00:17:25.520 allowed to be next to multiple trees.
+00:17:27.199 The numbers on the outside of the grid
+00:17:28.799 also indicate how many tents are in each
+00:17:31.520 row and column. The numbers inside the
+00:17:33.760 grid are unusual, but they just
+00:17:36.000 represent all of the possible places
+00:17:37.679 tents can be. And so solving this puzzle
+00:17:40.640 means you're figuring out which of the
+00:17:42.320 digits inside the grid are relevant to
+00:17:44.480 the final answer. Getting started with
+00:17:46.480 this puzzle was pretty tricky. What I
+00:17:48.640 did was look at the two rightmost
+00:17:50.400 columns and they can only have four
+00:17:53.200 tents in them. And in the rightmost
+00:17:56.240 column, just the one, there are four
+00:17:58.559 trees. So all four of the tents here are
+00:18:02.160 really assigned to these four trees. So
+00:18:04.720 any other possible tents have to be
+00:18:07.039 marked impossible. And that's these gray
+00:18:09.760 squares right here.
+00:18:11.840 Similarly on the left side, five columns
+00:18:15.200 have 9/10 in them, but the first four
+00:18:18.320 columns have nine trees. So the 9/10 of
+00:18:21.760 those nine trees encompass all five
+00:18:24.720 columns. And so all of the extra squares
+00:18:27.360 can be marked as not having a tent. And
+00:18:29.760 that is enough to really get you
+00:18:31.120 started. After a little bit of work,
+00:18:32.880 there was another sticking point that I
+00:18:34.320 thought was kind of interesting. And so
+00:18:36.480 in this column right here, there are
+00:18:39.200 supposed to be three tents. You can
+00:18:41.360 pretty easily get these two. And the
+00:18:44.080 third one is going to be on either side
+00:18:46.400 of this tree. You don't know where, but
+00:18:48.080 you know that the third one is there.
+00:18:50.400 And that actually eliminates a tent from
+00:18:52.240 being in any of these locations.
+00:18:57.760 And in the column to the left, you're
+00:19:00.640 looking for two tents. One of them is
+00:19:02.640 here. Another one is here. And that lets
+00:19:04.960 you mark this square as not having a
+00:19:07.280 tent in it, which allows you to figure
+00:19:09.200 out that the tent to this tree is placed
+00:19:11.520 to its right. The rest of the puzzle
+00:19:13.280 wasn't too bad in my opinion. This is
+00:19:15.679 where all of the tents are located. And
+00:19:18.640 the extraction is a little bit
+00:19:20.000 different. And it turns out that the
+00:19:21.440 digits in each row and column sum to
+00:19:23.760 numbers between 1 and 26. I originally
+00:19:27.200 only figured out the rows and after a
+00:19:29.520 while of looking at quartet after pen
+00:19:32.240 and not feeling like I could get a
+00:19:34.240 straight answer from that. That was when
+00:19:35.840 I also tried the columns. And that's
+00:19:37.280 what's pretty interesting about this is
+00:19:38.720 it's not trivial to make that work out.
+00:19:41.600 I think it's pretty cool that they did
+00:19:43.039 that that the same numbers can be added
+00:19:45.039 in both directions to give different
+00:19:47.440 correct letters. So the final clue
+00:19:49.360 phrase is quartet after pen brand last
+00:19:52.720 or user. And the word that can come
+00:19:54.880 after all of those four words is name.
+00:19:57.440 So the answer to puzzle six is name.
+00:19:59.840 Puzzle number seven. I adopted 100 dogs.
+00:20:02.799 This puzzle looks like busy work because
+00:20:04.559 it is busy work. There's not much way
+00:20:06.320 around the spot the difference piece of
+00:20:07.760 this. You're just going to have to go
+00:20:09.200 through every dog and answer all five
+00:20:11.120 questions. I found it much quicker
+00:20:12.720 rather than to go one dog at a time to
+00:20:14.799 go one question at a time. So here in my
+00:20:16.960 sheet, I made five grids where I
+00:20:19.440 answered each question yes or no with a
+00:20:21.200 quick one or zero. And then in the
+00:20:22.559 bottom right, I wrote a quick formula to
+00:20:24.160 concatenate all the ones and zeros into
+00:20:26.720 five-digit codes. So that brings me to
+00:20:28.799 the difficult part of this puzzle, which
+00:20:30.400 is actually decoding what letter each
+00:20:32.480 dog stands for. We've been given this
+00:20:34.559 sort of ven diagram with five ovals. And
+00:20:38.000 because the L is in the center, that
+00:20:39.840 means dogs that answer every question,
+00:20:41.919 yes, represent the letter L. You could
+00:20:44.559 probably go to a cryptogram solver or
+00:20:47.520 ask AI to help you with this step, but I
+00:20:50.000 took the cryptography approach. If
+00:20:51.600 you've never tried to decode a cipher
+00:20:53.440 before, I think the first rule of thumb
+00:20:55.679 to know is that E is by far and away the
+00:20:58.559 most common letter of the English
+00:20:59.919 alphabet. In this case, it's also useful
+00:21:01.760 that E happens to be in one of the five
+00:21:04.159 locations that represents an
+00:21:06.720 intersection of four out of the five
+00:21:08.960 ovals.
+00:21:10.480 So, I wrote down all of the codes that
+00:21:12.640 had four ones and one zero and counted
+00:21:15.679 them up. The last one where the dogs
+00:21:18.720 answer yes to every question except
+00:21:20.559 who's wiggling their tail is by far the
+00:21:23.360 most common. So I assigned that one to
+00:21:25.520 the letter E. And because the fifth
+00:21:27.520 question was answered no, the letter E
+00:21:30.640 is not in this oval right here, which I
+00:21:32.799 labeled with a red five. So then I tried
+00:21:34.960 to do the opposite and find the least
+00:21:36.799 common letter. This combination only
+00:21:38.960 showed up one time, so I assumed it was
+00:21:40.960 the letter B. And I put this red two in
+00:21:44.159 the bottom left to indicate that that
+00:21:46.080 oval represented the second question.
+00:21:48.799 And initially I thought I could label
+00:21:51.120 these ovals one to five in a clockwise
+00:21:53.200 fashion. So one red two three four red
+00:21:57.440 five based on those two assumptions I
+00:21:59.440 made. And I went down below and the
+00:22:02.000 first four letters actually decoded
+00:22:03.840 correctly. I got the word just. And
+00:22:06.240 after that it started to go haywire and
+00:22:08.559 I didn't see any real words. But it
+00:22:10.720 bothered me that I felt like I was on
+00:22:12.240 the right track with that. So I checked
+00:22:14.240 out the letters that I had so far. I was
+00:22:16.480 very confident in the letter E. I knew
+00:22:18.880 the letter L was in the center. And then
+00:22:20.880 I highlighted these letters in just JUS
+00:22:23.919 T. And I noticed that all of these
+00:22:26.880 letters actually have the same answer to
+00:22:29.039 the second and the fourth questions. And
+00:22:31.840 the second question was what I assumed
+00:22:34.080 from the letter B here. So I realized
+00:22:36.799 that I was very very close and I
+00:22:39.520 happened to switch the second and fourth
+00:22:41.600 circles. So when I swapped those here on
+00:22:43.919 the ven diagram, that actually worked
+00:22:46.720 out to decode the rest of the letters.
+00:22:48.640 You could go for something more like
+00:22:50.400 trial and error and try to guess other
+00:22:52.720 vowels because I and you are in here and
+00:22:55.360 they're going to be the eight and the
+00:22:56.480 six. In any case, this is the final
+00:22:58.960 decoded phrase. I actually noticed an
+00:23:01.520 error in row six, column 6, where the
+00:23:03.280 dog wagging its tail should not be
+00:23:04.880 wagging its tail and this L should be
+00:23:07.120 the letter E in adverb. And the message
+00:23:10.159 says just a 100 exquisitly fuzzy puppies
+00:23:13.200 can be viewed like an adverb, a number
+00:23:15.360 from a Spielberg movie or a film by
+00:23:17.440 Copa. And number in this case refers to
+00:23:20.000 a musical number from the movie Westside
+00:23:22.640 Story, which is somewhere and that fits
+00:23:24.880 the other clues. They also did a good
+00:23:27.039 job and made sure to put every letter
+00:23:29.120 from A to Z somewhere in this grid so
+00:23:31.919 that you really could solve this
+00:23:33.200 systematically if you wanted to. Hence
+00:23:35.280 the first part here, which is not
+00:23:37.280 necessarily a clue. It's just to add the
+00:23:39.120 letters X, Q, Z, J somewhere in this
+00:23:42.240 grid. I have actually been in a pit
+00:23:43.919 orchestra for Westside Story. It is a
+00:23:45.919 lot of fun. Somewhere.
+00:23:49.919 Puzzle number eight. I spent 100 hours
+00:23:51.760 inside the pyramids. This one is just a
+00:23:54.000 cross word in weird shape. a shape where
+00:23:56.000 the words don't cross. This one is just
+00:23:57.840 an uncross word in a completely normal
+00:23:59.840 shape. Here are the solutions to four
+00:24:02.880 crossword pyramids. The way this works
+00:24:05.120 is you just start answering clues until
+00:24:07.600 you see that a lot of them contain
+00:24:09.039 similar letters. Here are the second
+00:24:10.720 half of the clue answers. Resolution and
+00:24:13.760 revolutions were the first clues I got
+00:24:15.840 and they were right next to each other
+00:24:17.520 and served as a good confirmation for
+00:24:19.760 how to fill in these pyramids because
+00:24:21.520 you can add a V to resolution to get all
+00:24:24.240 of the letters in revolutions. Portion
+00:24:26.640 and positron I actually made a mistake
+00:24:28.320 early on because a proton I thought had
+00:24:30.799 an electric charge of plus one E and
+00:24:33.360 proton is also one letter off from
+00:24:35.919 portion but posetron is the correct
+00:24:38.159 answer. So that one took me a bit to
+00:24:40.000 correct. Today I learned the word
+00:24:41.760 orbiculate. And yes, Lar is a real
+00:24:44.400 thing. One very neat design choice are
+00:24:47.360 the four clues that say vowel that's not
+00:24:49.919 U and that there are four answers each
+00:24:53.039 of the other four vowels, A, E, I, and
+00:24:55.120 O. And those serve as the tops of each
+00:24:57.200 pyramid. Also, it definitely helps to
+00:24:59.600 notice early on as you answer clues that
+00:25:01.840 all of the answers are in alphabetical
+00:25:03.679 order. So, when you're missing some, you
+00:25:05.600 should be able to know from the
+00:25:06.880 surrounding clues what letter your clue
+00:25:09.360 starts with. Most likely, the answer to
+00:25:11.440 this puzzle is actually a missing clue.
+00:25:13.360 If you count them all up, there are only
+00:25:14.960 43 and there are 11 rows in the pyramid.
+00:25:18.240 Four pyramids makes 44 rows. So, around
+00:25:21.840 highlighted in green here is the answer
+00:25:23.600 to this puzzle as the missing word.
+00:25:25.440 Puzzle number nine. Anything you can fit
+00:25:27.279 in the circle, I'll pay for. This is
+00:25:29.760 probably the most intimidating of the
+00:25:31.840 first nine puzzles. And if you're
+00:25:33.520 feeling like I have no idea what I'm
+00:25:35.520 looking at and don't know what I would
+00:25:36.720 do, you are not alone. I had the same
+00:25:38.799 experience. But we can always play a
+00:25:40.559 game of find the pattern. So the circle
+00:25:43.600 on top has six red shaded triangles and
+00:25:47.279 the circle on the bottom has two blue
+00:25:48.960 shaded triangles. If I zoom in here on
+00:25:51.679 the text that we've been given, the
+00:25:53.600 letter in the second position has been
+00:25:56.080 crossed out in blue and the letter in
+00:25:58.159 the sixth position has been crossed out
+00:26:00.240 in red. So, that's a pretty good
+00:26:02.480 indicator that the number of triangles
+00:26:04.880 shaded serves to cross out one of these
+00:26:07.039 letters. And then we have this dot dot
+00:26:08.880 dot that indicates we should be finding
+00:26:10.720 more triangles. And that will cross out
+00:26:12.880 more letters. And hopefully at the end,
+00:26:14.799 we will see a hidden message pop out if
+00:26:16.559 we cross out enough letters. Because
+00:26:18.480 this puzzle resembles somebody's math
+00:26:20.320 homework that they didn't want to do, I
+00:26:22.080 went ahead and asked AI to help. But
+00:26:24.159 first, I wanted to do some research so
+00:26:25.679 that I had enough terms in my vocabulary
+00:26:27.440 to talk about what it is we're working
+00:26:29.039 with. And the shape we're looking at has
+00:26:31.360 120 sides. It's called a distiocus
+00:26:33.520 tricanted. And right at the end of the
+00:26:36.080 intro on Wikipedia here, there is a
+00:26:38.960 paragraph about projecting it into a
+00:26:41.039 sphere, which means rounding all of the
+00:26:43.360 edges and making this the shape we see
+00:26:45.279 in the puzzle. And it talks about
+00:26:47.200 defining 15 great circles. And I think
+00:26:50.799 this was the ulterior motive of the
+00:26:52.559 entire puzzle was to make sure that you
+00:26:54.320 came across this term great circle,
+00:26:56.240 which really just means drawing a
+00:26:58.159 two-dimensional circle around a sphere
+00:27:00.640 so that it's centered on the sphere. But
+00:27:03.200 it'll be a long time before I come back
+00:27:04.799 to this topic. It is needed to get the
+00:27:06.720 first half of the final vault code after
+00:27:08.640 you solve the first 100 puzzles. I did
+00:27:11.039 not originally solve this puzzle myself.
+00:27:12.640 I was happy to let somebody else do it,
+00:27:14.799 but in preparing for this video, I went
+00:27:16.799 to Claude Code and this was my first
+00:27:18.720 prompt. I need help solving a math
+00:27:20.960 problem. There is a sphere and its
+00:27:22.799 surfaces split into 120 equally sized
+00:27:26.320 spherical triangles. Assume the surface
+00:27:28.559 area of a single triangle is one. I
+00:27:31.039 would like to calculate the list of all
+00:27:32.559 unique areas of triangles on the surface
+00:27:34.640 of this sphere. Now, that sentence got
+00:27:36.559 me in trouble because I said all unique
+00:27:38.480 areas of triangles and it assumed I
+00:27:40.799 meant areas made up of triangles, not
+00:27:42.720 areas shaped like triangles. So, the
+00:27:44.960 first response was all the areas, all of
+00:27:47.679 them are possible. And then I said, "No,
+00:27:49.600 triangles only." And then the last thing
+00:27:50.960 it did was actually ask me a question
+00:27:52.640 about great circles. So I was happy I
+00:27:54.640 knew what those were. And then it turned
+00:27:56.159 a bit, wrote some code, and out popped a
+00:27:58.240 list of areas. Now, of course, I had no
+00:27:59.919 way to know if these were the correct
+00:28:01.760 areas until I went and solved the
+00:28:03.679 puzzle. So I asked it to generate a
+00:28:05.600 visualizer in Python. And here I have
+00:28:08.080 the visualizer on the right side of the
+00:28:09.600 screen. I currently have two triangles
+00:28:11.679 selected, but I can click three and it
+00:28:13.600 will show me an example of three
+00:28:15.520 triangles making a larger triangle. And
+00:28:17.760 then four and six is very easy to spot.
+00:28:21.760 And seven. 15 is probably my favorite.
+00:28:24.880 Look at that nice spiral around the
+00:28:26.240 middle. All the way up to 42, which
+00:28:28.720 looks like this. And the edges are
+00:28:30.880 straight. There are only three edges.
+00:28:32.640 And therefore, it is a triangle. So the
+00:28:34.480 last thing to do was take that list of
+00:28:36.399 areas and go ahead and cross out all of
+00:28:38.640 the letters in those positions. And that
+00:28:41.039 gave me the final clue phrase which is
+00:28:42.960 homophone of wh i r l e d which is
+00:28:46.720 world. So the answer to puzzle number
+00:28:48.559 nine is w o r lld d world. As a quick
+00:28:52.240 addendum to talk about the code in case
+00:28:54.000 you're interested in writing your own
+00:28:55.679 solution to this puzzle. The algorithm
+00:28:57.600 isn't too hard. In this case it was just
+00:28:59.360 the mathematical details that I wanted
+00:29:01.039 to avoid. But essentially, you can look
+00:29:02.720 up the equations of the 15 great circles
+00:29:05.679 that form this shape in the puzzle and
+00:29:07.919 write a loop that iterates over every
+00:29:09.679 combination of three great circles and
+00:29:12.000 then calculates the area of the triangle
+00:29:13.840 formed by those great circles. And by
+00:29:15.919 the end, you'll have a set of unique
+00:29:17.200 areas. There are just some tricky
+00:29:18.559 details along the way such as you can't
+00:29:20.559 select parallel great circles. I don't
+00:29:22.960 know if that's the correct term here,
+00:29:24.559 but what I mean by that is you can see
+00:29:25.919 these pentagons and in the center of
+00:29:28.000 those pentagons, there is an
+00:29:30.000 intersection of five great circles. So,
+00:29:32.080 if you pick any of those three, they
+00:29:33.840 form these long sort of crescent shapes,
+00:29:36.000 but they never actually form any
+00:29:37.279 triangles. For posterity, here are some
+00:29:39.679 of the tools I personally used to solve
+00:29:41.679 these puzzles. The first is word plays,
+00:29:43.840 my favorite cross word solver. It has
+00:29:45.520 more ads these days than it used to, but
+00:29:47.279 it's a great database and can even help
+00:29:48.880 with cryptic crosswords at times. Next
+00:29:51.279 is Neutramatic, which is a word finding
+00:29:53.440 pattern matching tool created by the
+00:29:55.600 great Dan Egnore. This tool has somewhat
+00:29:58.320 of a learning curve, but it's very
+00:29:59.760 robust. Amazing for help with anagrams
+00:30:02.080 and puzzles like number three with the
+00:30:03.760 TV shows and number eight where each
+00:30:06.000 layer of the pyramid scrambled the
+00:30:07.679 previous letters. Dan also maintains the
+00:30:09.919 puzzle hunt calendar where if you liked
+00:30:12.320 these nine puzzles, you can find a
+00:30:14.080 schedule of upcoming competitive events
+00:30:16.080 where you're guaranteed to see a whole
+00:30:17.679 lot more puzzles very much like these.
+00:30:19.919 Next up is Litcape, my backup word
+00:30:22.080 finder. This website is very easy to
+00:30:24.000 use, has some different word lists to
+00:30:26.080 search and multiple different tools. The
+00:30:28.320 words containing only tool was very
+00:30:30.480 useful for the TV shows. All I had to do
+00:30:32.799 was set the length to two letters less
+00:30:34.720 than I had in order to find some of the
+00:30:36.640 trickier words for that puzzle. Last, I
+00:30:38.960 want to mention Simon Taam's portable
+00:30:40.640 puzzle collection. This site has plenty
+00:30:42.799 of fun games and if you're looking to
+00:30:44.480 challenge your logic skills, you might
+00:30:46.000 recognize some guests. also known as
+00:30:48.320 mastermind mind sweeper right below that
+00:30:51.600 and the reason I am mentioning it for
+00:30:53.360 this video is tense from puzzle number
+00:30:55.760 Thanks.

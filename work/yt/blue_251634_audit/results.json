@@ -1,0 +1,3276 @@
+{
+  "scope": "Literal hotbar labels and selected title/description/instruction text only. No invented species names, ASR, arbitrary offsets, anagrams, substitutions, or claim of exhaustive coverage. Dictionary matches are leads, not answer validation.",
+  "video": "https://www.youtube.com/watch?v=Y74b7WlcEpk",
+  "key": [
+    2,
+    5,
+    1,
+    6,
+    3,
+    4
+  ],
+  "inverse": [
+    3,
+    1,
+    5,
+    6,
+    2,
+    4
+  ],
+  "evidence_sheet": "work/yt/blue_251634_audit/spawn_labels.jpg",
+  "items": [
+    {
+      "slot": 1,
+      "label": "Spawn Peacock",
+      "frame": "work/yt/mb4th_scan/frame_0041.jpg",
+      "seconds": 20.0
+    },
+    {
+      "slot": 2,
+      "label": "Spawn Bluebird",
+      "frame": "work/yt/mb4th_scan/frame_0053.jpg",
+      "seconds": 26.0
+    },
+    {
+      "slot": 3,
+      "label": "Spawn Peahen",
+      "frame": "work/yt/mb4th_scan/frame_0062.jpg",
+      "seconds": 30.5
+    },
+    {
+      "slot": 4,
+      "label": "Spawn Flamingo",
+      "frame": "work/yt/mb4th_scan/frame_0067.jpg",
+      "seconds": 33.0
+    },
+    {
+      "slot": 5,
+      "label": "Spawn Roadrunner",
+      "frame": "work/yt/mb4th_scan/frame_0079.jpg",
+      "seconds": 39.0
+    },
+    {
+      "slot": 6,
+      "label": "Spawn White Peacock",
+      "frame": "work/yt/mb4th_scan/frame_0098.jpg",
+      "seconds": 48.5
+    }
+  ],
+  "item_tests": [
+    {
+      "form": "name",
+      "order": "hotbar",
+      "sources": [
+        "PEACOCK",
+        "BLUEBIRD",
+        "PEAHEN",
+        "FLAMINGO",
+        "ROADRUNNER",
+        "WHITEPEACOCK"
+      ],
+      "index_rule": "key",
+      "indices": [
+        2,
+        5,
+        1,
+        6,
+        3,
+        4
+      ],
+      "from_end": false,
+      "output": "EBPNAT"
+    },
+    {
+      "form": "name",
+      "order": "hotbar",
+      "sources": [
+        "PEACOCK",
+        "BLUEBIRD",
+        "PEAHEN",
+        "FLAMINGO",
+        "ROADRUNNER",
+        "WHITEPEACOCK"
+      ],
+      "index_rule": "key",
+      "indices": [
+        2,
+        5,
+        1,
+        6,
+        3,
+        4
+      ],
+      "from_end": true,
+      "output": "CENANC"
+    },
+    {
+      "form": "name",
+      "order": "hotbar",
+      "sources": [
+        "PEACOCK",
+        "BLUEBIRD",
+        "PEAHEN",
+        "FLAMINGO",
+        "ROADRUNNER",
+        "WHITEPEACOCK"
+      ],
+      "index_rule": "inverse_key",
+      "indices": [
+        3,
+        1,
+        5,
+        6,
+        2,
+        4
+      ],
+      "from_end": false,
+      "output": "ABENOT"
+    },
+    {
+      "form": "name",
+      "order": "hotbar",
+      "sources": [
+        "PEACOCK",
+        "BLUEBIRD",
+        "PEAHEN",
+        "FLAMINGO",
+        "ROADRUNNER",
+        "WHITEPEACOCK"
+      ],
+      "index_rule": "inverse_key",
+      "indices": [
+        3,
+        1,
+        5,
+        6,
+        2,
+        4
+      ],
+      "from_end": true,
+      "output": "ODEAEC"
+    },
+    {
+      "form": "name",
+      "order": "hotbar",
+      "sources": [
+        "PEACOCK",
+        "BLUEBIRD",
+        "PEAHEN",
+        "FLAMINGO",
+        "ROADRUNNER",
+        "WHITEPEACOCK"
+      ],
+      "index_rule": "position",
+      "indices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "from_end": false,
+      "output": "PLAMRP"
+    },
+    {
+      "form": "name",
+      "order": "hotbar",
+      "sources": [
+        "PEACOCK",
+        "BLUEBIRD",
+        "PEAHEN",
+        "FLAMINGO",
+        "ROADRUNNER",
+        "WHITEPEACOCK"
+      ],
+      "index_rule": "position",
+      "indices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "from_end": true,
+      "output": "KRHIUE"
+    },
+    {
+      "form": "name",
+      "order": "hotbar",
+      "sources": [
+        "PEACOCK",
+        "BLUEBIRD",
+        "PEAHEN",
+        "FLAMINGO",
+        "ROADRUNNER",
+        "WHITEPEACOCK"
+      ],
+      "index_rule": "first",
+      "indices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "from_end": false,
+      "output": "PBPFRW"
+    },
+    {
+      "form": "name",
+      "order": "hotbar",
+      "sources": [
+        "PEACOCK",
+        "BLUEBIRD",
+        "PEAHEN",
+        "FLAMINGO",
+        "ROADRUNNER",
+        "WHITEPEACOCK"
+      ],
+      "index_rule": "first",
+      "indices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "from_end": true,
+      "output": "KDNORK"
+    },
+    {
+      "form": "name",
+      "order": "hotbar",
+      "sources": [
+        "PEACOCK",
+        "BLUEBIRD",
+        "PEAHEN",
+        "FLAMINGO",
+        "ROADRUNNER",
+        "WHITEPEACOCK"
+      ],
+      "index_rule": "fourth",
+      "indices": [
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "from_end": false,
+      "output": "CEHMDT"
+    },
+    {
+      "form": "name",
+      "order": "hotbar",
+      "sources": [
+        "PEACOCK",
+        "BLUEBIRD",
+        "PEAHEN",
+        "FLAMINGO",
+        "ROADRUNNER",
+        "WHITEPEACOCK"
+      ],
+      "index_rule": "fourth",
+      "indices": [
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "from_end": true,
+      "output": "CBAINC"
+    },
+    {
+      "form": "name",
+      "order": "hotbar",
+      "sources": [
+        "PEACOCK",
+        "BLUEBIRD",
+        "PEAHEN",
+        "FLAMINGO",
+        "ROADRUNNER",
+        "WHITEPEACOCK"
+      ],
+      "index_rule": "ninth",
+      "indices": [
+        9,
+        9,
+        9,
+        9,
+        9,
+        9
+      ],
+      "from_end": false,
+      "output": "????EC"
+    },
+    {
+      "form": "name",
+      "order": "hotbar",
+      "sources": [
+        "PEACOCK",
+        "BLUEBIRD",
+        "PEAHEN",
+        "FLAMINGO",
+        "ROADRUNNER",
+        "WHITEPEACOCK"
+      ],
+      "index_rule": "ninth",
+      "indices": [
+        9,
+        9,
+        9,
+        9,
+        9,
+        9
+      ],
+      "from_end": true,
+      "output": "????OT"
+    },
+    {
+      "form": "name",
+      "order": "reverse_hotbar",
+      "sources": [
+        "WHITEPEACOCK",
+        "ROADRUNNER",
+        "FLAMINGO",
+        "PEAHEN",
+        "BLUEBIRD",
+        "PEACOCK"
+      ],
+      "index_rule": "key",
+      "indices": [
+        2,
+        5,
+        1,
+        6,
+        3,
+        4
+      ],
+      "from_end": false,
+      "output": "HRFNUC"
+    },
+    {
+      "form": "name",
+      "order": "reverse_hotbar",
+      "sources": [
+        "WHITEPEACOCK",
+        "ROADRUNNER",
+        "FLAMINGO",
+        "PEAHEN",
+        "BLUEBIRD",
+        "PEACOCK"
+      ],
+      "index_rule": "key",
+      "indices": [
+        2,
+        5,
+        1,
+        6,
+        3,
+        4
+      ],
+      "from_end": true,
+      "output": "CUOPIC"
+    },
+    {
+      "form": "name",
+      "order": "reverse_hotbar",
+      "sources": [
+        "WHITEPEACOCK",
+        "ROADRUNNER",
+        "FLAMINGO",
+        "PEAHEN",
+        "BLUEBIRD",
+        "PEACOCK"
+      ],
+      "index_rule": "inverse_key",
+      "indices": [
+        3,
+        1,
+        5,
+        6,
+        2,
+        4
+      ],
+      "from_end": false,
+      "output": "IRINLC"
+    },
+    {
+      "form": "name",
+      "order": "reverse_hotbar",
+      "sources": [
+        "WHITEPEACOCK",
+        "ROADRUNNER",
+        "FLAMINGO",
+        "PEAHEN",
+        "BLUEBIRD",
+        "PEACOCK"
+      ],
+      "index_rule": "inverse_key",
+      "indices": [
+        3,
+        1,
+        5,
+        6,
+        2,
+        4
+      ],
+      "from_end": true,
+      "output": "ORMPRC"
+    },
+    {
+      "form": "name",
+      "order": "reverse_hotbar",
+      "sources": [
+        "WHITEPEACOCK",
+        "ROADRUNNER",
+        "FLAMINGO",
+        "PEAHEN",
+        "BLUEBIRD",
+        "PEACOCK"
+      ],
+      "index_rule": "position",
+      "indices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "from_end": false,
+      "output": "WOAHBC"
+    },
+    {
+      "form": "name",
+      "order": "reverse_hotbar",
+      "sources": [
+        "WHITEPEACOCK",
+        "ROADRUNNER",
+        "FLAMINGO",
+        "PEAHEN",
+        "BLUEBIRD",
+        "PEACOCK"
+      ],
+      "index_rule": "position",
+      "indices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "from_end": true,
+      "output": "KENAEE"
+    },
+    {
+      "form": "name",
+      "order": "reverse_hotbar",
+      "sources": [
+        "WHITEPEACOCK",
+        "ROADRUNNER",
+        "FLAMINGO",
+        "PEAHEN",
+        "BLUEBIRD",
+        "PEACOCK"
+      ],
+      "index_rule": "first",
+      "indices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "from_end": false,
+      "output": "WRFPBP"
+    },
+    {
+      "form": "name",
+      "order": "reverse_hotbar",
+      "sources": [
+        "WHITEPEACOCK",
+        "ROADRUNNER",
+        "FLAMINGO",
+        "PEAHEN",
+        "BLUEBIRD",
+        "PEACOCK"
+      ],
+      "index_rule": "first",
+      "indices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "from_end": true,
+      "output": "KRONDK"
+    },
+    {
+      "form": "name",
+      "order": "reverse_hotbar",
+      "sources": [
+        "WHITEPEACOCK",
+        "ROADRUNNER",
+        "FLAMINGO",
+        "PEAHEN",
+        "BLUEBIRD",
+        "PEACOCK"
+      ],
+      "index_rule": "fourth",
+      "indices": [
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "from_end": false,
+      "output": "TDMHEC"
+    },
+    {
+      "form": "name",
+      "order": "reverse_hotbar",
+      "sources": [
+        "WHITEPEACOCK",
+        "ROADRUNNER",
+        "FLAMINGO",
+        "PEAHEN",
+        "BLUEBIRD",
+        "PEACOCK"
+      ],
+      "index_rule": "fourth",
+      "indices": [
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "from_end": true,
+      "output": "CNIABC"
+    },
+    {
+      "form": "name",
+      "order": "reverse_hotbar",
+      "sources": [
+        "WHITEPEACOCK",
+        "ROADRUNNER",
+        "FLAMINGO",
+        "PEAHEN",
+        "BLUEBIRD",
+        "PEACOCK"
+      ],
+      "index_rule": "ninth",
+      "indices": [
+        9,
+        9,
+        9,
+        9,
+        9,
+        9
+      ],
+      "from_end": false,
+      "output": "CE????"
+    },
+    {
+      "form": "name",
+      "order": "reverse_hotbar",
+      "sources": [
+        "WHITEPEACOCK",
+        "ROADRUNNER",
+        "FLAMINGO",
+        "PEAHEN",
+        "BLUEBIRD",
+        "PEACOCK"
+      ],
+      "index_rule": "ninth",
+      "indices": [
+        9,
+        9,
+        9,
+        9,
+        9,
+        9
+      ],
+      "from_end": true,
+      "output": "TO????"
+    },
+    {
+      "form": "name",
+      "order": "alphabetical",
+      "sources": [
+        "BLUEBIRD",
+        "FLAMINGO",
+        "PEACOCK",
+        "PEAHEN",
+        "ROADRUNNER",
+        "WHITEPEACOCK"
+      ],
+      "index_rule": "key",
+      "indices": [
+        2,
+        5,
+        1,
+        6,
+        3,
+        4
+      ],
+      "from_end": false,
+      "output": "LIPNAT"
+    },
+    {
+      "form": "name",
+      "order": "alphabetical",
+      "sources": [
+        "BLUEBIRD",
+        "FLAMINGO",
+        "PEACOCK",
+        "PEAHEN",
+        "ROADRUNNER",
+        "WHITEPEACOCK"
+      ],
+      "index_rule": "key",
+      "indices": [
+        2,
+        5,
+        1,
+        6,
+        3,
+        4
+      ],
+      "from_end": true,
+      "output": "RMKPNC"
+    },
+    {
+      "form": "name",
+      "order": "alphabetical",
+      "sources": [
+        "BLUEBIRD",
+        "FLAMINGO",
+        "PEACOCK",
+        "PEAHEN",
+        "ROADRUNNER",
+        "WHITEPEACOCK"
+      ],
+      "index_rule": "inverse_key",
+      "indices": [
+        3,
+        1,
+        5,
+        6,
+        2,
+        4
+      ],
+      "from_end": false,
+      "output": "UFONOT"
+    },
+    {
+      "form": "name",
+      "order": "alphabetical",
+      "sources": [
+        "BLUEBIRD",
+        "FLAMINGO",
+        "PEACOCK",
+        "PEAHEN",
+        "ROADRUNNER",
+        "WHITEPEACOCK"
+      ],
+      "index_rule": "inverse_key",
+      "indices": [
+        3,
+        1,
+        5,
+        6,
+        2,
+        4
+      ],
+      "from_end": true,
+      "output": "IOAPEC"
+    },
+    {
+      "form": "name",
+      "order": "alphabetical",
+      "sources": [
+        "BLUEBIRD",
+        "FLAMINGO",
+        "PEACOCK",
+        "PEAHEN",
+        "ROADRUNNER",
+        "WHITEPEACOCK"
+      ],
+      "index_rule": "position",
+      "indices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "from_end": false,
+      "output": "BLAHRP"
+    },
+    {
+      "form": "name",
+      "order": "alphabetical",
+      "sources": [
+        "BLUEBIRD",
+        "FLAMINGO",
+        "PEACOCK",
+        "PEAHEN",
+        "ROADRUNNER",
+        "WHITEPEACOCK"
+      ],
+      "index_rule": "position",
+      "indices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "from_end": true,
+      "output": "DGOAUE"
+    },
+    {
+      "form": "name",
+      "order": "alphabetical",
+      "sources": [
+        "BLUEBIRD",
+        "FLAMINGO",
+        "PEACOCK",
+        "PEAHEN",
+        "ROADRUNNER",
+        "WHITEPEACOCK"
+      ],
+      "index_rule": "first",
+      "indices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "from_end": false,
+      "output": "BFPPRW"
+    },
+    {
+      "form": "name",
+      "order": "alphabetical",
+      "sources": [
+        "BLUEBIRD",
+        "FLAMINGO",
+        "PEACOCK",
+        "PEAHEN",
+        "ROADRUNNER",
+        "WHITEPEACOCK"
+      ],
+      "index_rule": "first",
+      "indices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "from_end": true,
+      "output": "DOKNRK"
+    },
+    {
+      "form": "name",
+      "order": "alphabetical",
+      "sources": [
+        "BLUEBIRD",
+        "FLAMINGO",
+        "PEACOCK",
+        "PEAHEN",
+        "ROADRUNNER",
+        "WHITEPEACOCK"
+      ],
+      "index_rule": "fourth",
+      "indices": [
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "from_end": false,
+      "output": "EMCHDT"
+    },
+    {
+      "form": "name",
+      "order": "alphabetical",
+      "sources": [
+        "BLUEBIRD",
+        "FLAMINGO",
+        "PEACOCK",
+        "PEAHEN",
+        "ROADRUNNER",
+        "WHITEPEACOCK"
+      ],
+      "index_rule": "fourth",
+      "indices": [
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "from_end": true,
+      "output": "BICANC"
+    },
+    {
+      "form": "name",
+      "order": "alphabetical",
+      "sources": [
+        "BLUEBIRD",
+        "FLAMINGO",
+        "PEACOCK",
+        "PEAHEN",
+        "ROADRUNNER",
+        "WHITEPEACOCK"
+      ],
+      "index_rule": "ninth",
+      "indices": [
+        9,
+        9,
+        9,
+        9,
+        9,
+        9
+      ],
+      "from_end": false,
+      "output": "????EC"
+    },
+    {
+      "form": "name",
+      "order": "alphabetical",
+      "sources": [
+        "BLUEBIRD",
+        "FLAMINGO",
+        "PEACOCK",
+        "PEAHEN",
+        "ROADRUNNER",
+        "WHITEPEACOCK"
+      ],
+      "index_rule": "ninth",
+      "indices": [
+        9,
+        9,
+        9,
+        9,
+        9,
+        9
+      ],
+      "from_end": true,
+      "output": "????OT"
+    },
+    {
+      "form": "name",
+      "order": "key_read_order",
+      "sources": [
+        "BLUEBIRD",
+        "ROADRUNNER",
+        "PEACOCK",
+        "WHITEPEACOCK",
+        "PEAHEN",
+        "FLAMINGO"
+      ],
+      "index_rule": "key",
+      "indices": [
+        2,
+        5,
+        1,
+        6,
+        3,
+        4
+      ],
+      "from_end": false,
+      "output": "LRPPAM"
+    },
+    {
+      "form": "name",
+      "order": "key_read_order",
+      "sources": [
+        "BLUEBIRD",
+        "ROADRUNNER",
+        "PEACOCK",
+        "WHITEPEACOCK",
+        "PEAHEN",
+        "FLAMINGO"
+      ],
+      "index_rule": "key",
+      "indices": [
+        2,
+        5,
+        1,
+        6,
+        3,
+        4
+      ],
+      "from_end": true,
+      "output": "RUKEHI"
+    },
+    {
+      "form": "name",
+      "order": "key_read_order",
+      "sources": [
+        "BLUEBIRD",
+        "ROADRUNNER",
+        "PEACOCK",
+        "WHITEPEACOCK",
+        "PEAHEN",
+        "FLAMINGO"
+      ],
+      "index_rule": "inverse_key",
+      "indices": [
+        3,
+        1,
+        5,
+        6,
+        2,
+        4
+      ],
+      "from_end": false,
+      "output": "UROPEM"
+    },
+    {
+      "form": "name",
+      "order": "key_read_order",
+      "sources": [
+        "BLUEBIRD",
+        "ROADRUNNER",
+        "PEACOCK",
+        "WHITEPEACOCK",
+        "PEAHEN",
+        "FLAMINGO"
+      ],
+      "index_rule": "inverse_key",
+      "indices": [
+        3,
+        1,
+        5,
+        6,
+        2,
+        4
+      ],
+      "from_end": true,
+      "output": "IRAEEI"
+    },
+    {
+      "form": "name",
+      "order": "key_read_order",
+      "sources": [
+        "BLUEBIRD",
+        "ROADRUNNER",
+        "PEACOCK",
+        "WHITEPEACOCK",
+        "PEAHEN",
+        "FLAMINGO"
+      ],
+      "index_rule": "position",
+      "indices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "from_end": false,
+      "output": "BOATEN"
+    },
+    {
+      "form": "name",
+      "order": "key_read_order",
+      "sources": [
+        "BLUEBIRD",
+        "ROADRUNNER",
+        "PEACOCK",
+        "WHITEPEACOCK",
+        "PEAHEN",
+        "FLAMINGO"
+      ],
+      "index_rule": "position",
+      "indices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "from_end": true,
+      "output": "DEOCEA"
+    },
+    {
+      "form": "name",
+      "order": "key_read_order",
+      "sources": [
+        "BLUEBIRD",
+        "ROADRUNNER",
+        "PEACOCK",
+        "WHITEPEACOCK",
+        "PEAHEN",
+        "FLAMINGO"
+      ],
+      "index_rule": "first",
+      "indices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "from_end": false,
+      "output": "BRPWPF"
+    },
+    {
+      "form": "name",
+      "order": "key_read_order",
+      "sources": [
+        "BLUEBIRD",
+        "ROADRUNNER",
+        "PEACOCK",
+        "WHITEPEACOCK",
+        "PEAHEN",
+        "FLAMINGO"
+      ],
+      "index_rule": "first",
+      "indices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "from_end": true,
+      "output": "DRKKNO"
+    },
+    {
+      "form": "name",
+      "order": "key_read_order",
+      "sources": [
+        "BLUEBIRD",
+        "ROADRUNNER",
+        "PEACOCK",
+        "WHITEPEACOCK",
+        "PEAHEN",
+        "FLAMINGO"
+      ],
+      "index_rule": "fourth",
+      "indices": [
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "from_end": false,
+      "output": "EDCTHM"
+    },
+    {
+      "form": "name",
+      "order": "key_read_order",
+      "sources": [
+        "BLUEBIRD",
+        "ROADRUNNER",
+        "PEACOCK",
+        "WHITEPEACOCK",
+        "PEAHEN",
+        "FLAMINGO"
+      ],
+      "index_rule": "fourth",
+      "indices": [
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "from_end": true,
+      "output": "BNCCAI"
+    },
+    {
+      "form": "name",
+      "order": "key_read_order",
+      "sources": [
+        "BLUEBIRD",
+        "ROADRUNNER",
+        "PEACOCK",
+        "WHITEPEACOCK",
+        "PEAHEN",
+        "FLAMINGO"
+      ],
+      "index_rule": "ninth",
+      "indices": [
+        9,
+        9,
+        9,
+        9,
+        9,
+        9
+      ],
+      "from_end": false,
+      "output": "?E?C??"
+    },
+    {
+      "form": "name",
+      "order": "key_read_order",
+      "sources": [
+        "BLUEBIRD",
+        "ROADRUNNER",
+        "PEACOCK",
+        "WHITEPEACOCK",
+        "PEAHEN",
+        "FLAMINGO"
+      ],
+      "index_rule": "ninth",
+      "indices": [
+        9,
+        9,
+        9,
+        9,
+        9,
+        9
+      ],
+      "from_end": true,
+      "output": "?O?T??"
+    },
+    {
+      "form": "name",
+      "order": "key_destination_order",
+      "sources": [
+        "PEAHEN",
+        "PEACOCK",
+        "ROADRUNNER",
+        "WHITEPEACOCK",
+        "BLUEBIRD",
+        "FLAMINGO"
+      ],
+      "index_rule": "key",
+      "indices": [
+        2,
+        5,
+        1,
+        6,
+        3,
+        4
+      ],
+      "from_end": false,
+      "output": "EORPUM"
+    },
+    {
+      "form": "name",
+      "order": "key_destination_order",
+      "sources": [
+        "PEAHEN",
+        "PEACOCK",
+        "ROADRUNNER",
+        "WHITEPEACOCK",
+        "BLUEBIRD",
+        "FLAMINGO"
+      ],
+      "index_rule": "key",
+      "indices": [
+        2,
+        5,
+        1,
+        6,
+        3,
+        4
+      ],
+      "from_end": true,
+      "output": "EAREII"
+    },
+    {
+      "form": "name",
+      "order": "key_destination_order",
+      "sources": [
+        "PEAHEN",
+        "PEACOCK",
+        "ROADRUNNER",
+        "WHITEPEACOCK",
+        "BLUEBIRD",
+        "FLAMINGO"
+      ],
+      "index_rule": "inverse_key",
+      "indices": [
+        3,
+        1,
+        5,
+        6,
+        2,
+        4
+      ],
+      "from_end": false,
+      "output": "APRPLM"
+    },
+    {
+      "form": "name",
+      "order": "key_destination_order",
+      "sources": [
+        "PEAHEN",
+        "PEACOCK",
+        "ROADRUNNER",
+        "WHITEPEACOCK",
+        "BLUEBIRD",
+        "FLAMINGO"
+      ],
+      "index_rule": "inverse_key",
+      "indices": [
+        3,
+        1,
+        5,
+        6,
+        2,
+        4
+      ],
+      "from_end": true,
+      "output": "HKUERI"
+    },
+    {
+      "form": "name",
+      "order": "key_destination_order",
+      "sources": [
+        "PEAHEN",
+        "PEACOCK",
+        "ROADRUNNER",
+        "WHITEPEACOCK",
+        "BLUEBIRD",
+        "FLAMINGO"
+      ],
+      "index_rule": "position",
+      "indices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "from_end": false,
+      "output": "PEATBN"
+    },
+    {
+      "form": "name",
+      "order": "key_destination_order",
+      "sources": [
+        "PEAHEN",
+        "PEACOCK",
+        "ROADRUNNER",
+        "WHITEPEACOCK",
+        "BLUEBIRD",
+        "FLAMINGO"
+      ],
+      "index_rule": "position",
+      "indices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "from_end": true,
+      "output": "NCNCEA"
+    },
+    {
+      "form": "name",
+      "order": "key_destination_order",
+      "sources": [
+        "PEAHEN",
+        "PEACOCK",
+        "ROADRUNNER",
+        "WHITEPEACOCK",
+        "BLUEBIRD",
+        "FLAMINGO"
+      ],
+      "index_rule": "first",
+      "indices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "from_end": false,
+      "output": "PPRWBF"
+    },
+    {
+      "form": "name",
+      "order": "key_destination_order",
+      "sources": [
+        "PEAHEN",
+        "PEACOCK",
+        "ROADRUNNER",
+        "WHITEPEACOCK",
+        "BLUEBIRD",
+        "FLAMINGO"
+      ],
+      "index_rule": "first",
+      "indices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "from_end": true,
+      "output": "NKRKDO"
+    },
+    {
+      "form": "name",
+      "order": "key_destination_order",
+      "sources": [
+        "PEAHEN",
+        "PEACOCK",
+        "ROADRUNNER",
+        "WHITEPEACOCK",
+        "BLUEBIRD",
+        "FLAMINGO"
+      ],
+      "index_rule": "fourth",
+      "indices": [
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "from_end": false,
+      "output": "HCDTEM"
+    },
+    {
+      "form": "name",
+      "order": "key_destination_order",
+      "sources": [
+        "PEAHEN",
+        "PEACOCK",
+        "ROADRUNNER",
+        "WHITEPEACOCK",
+        "BLUEBIRD",
+        "FLAMINGO"
+      ],
+      "index_rule": "fourth",
+      "indices": [
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "from_end": true,
+      "output": "ACNCBI"
+    },
+    {
+      "form": "name",
+      "order": "key_destination_order",
+      "sources": [
+        "PEAHEN",
+        "PEACOCK",
+        "ROADRUNNER",
+        "WHITEPEACOCK",
+        "BLUEBIRD",
+        "FLAMINGO"
+      ],
+      "index_rule": "ninth",
+      "indices": [
+        9,
+        9,
+        9,
+        9,
+        9,
+        9
+      ],
+      "from_end": false,
+      "output": "??EC??"
+    },
+    {
+      "form": "name",
+      "order": "key_destination_order",
+      "sources": [
+        "PEAHEN",
+        "PEACOCK",
+        "ROADRUNNER",
+        "WHITEPEACOCK",
+        "BLUEBIRD",
+        "FLAMINGO"
+      ],
+      "index_rule": "ninth",
+      "indices": [
+        9,
+        9,
+        9,
+        9,
+        9,
+        9
+      ],
+      "from_end": true,
+      "output": "??OT??"
+    },
+    {
+      "form": "full_spawn_label",
+      "order": "hotbar",
+      "sources": [
+        "SPAWNPEACOCK",
+        "SPAWNBLUEBIRD",
+        "SPAWNPEAHEN",
+        "SPAWNFLAMINGO",
+        "SPAWNROADRUNNER",
+        "SPAWNWHITEPEACOCK"
+      ],
+      "index_rule": "key",
+      "indices": [
+        2,
+        5,
+        1,
+        6,
+        3,
+        4
+      ],
+      "from_end": false,
+      "output": "PNSFAW"
+    },
+    {
+      "form": "full_spawn_label",
+      "order": "hotbar",
+      "sources": [
+        "SPAWNPEACOCK",
+        "SPAWNBLUEBIRD",
+        "SPAWNPEAHEN",
+        "SPAWNFLAMINGO",
+        "SPAWNROADRUNNER",
+        "SPAWNWHITEPEACOCK"
+      ],
+      "index_rule": "key",
+      "indices": [
+        2,
+        5,
+        1,
+        6,
+        3,
+        4
+      ],
+      "from_end": true,
+      "output": "CENANC"
+    },
+    {
+      "form": "full_spawn_label",
+      "order": "hotbar",
+      "sources": [
+        "SPAWNPEACOCK",
+        "SPAWNBLUEBIRD",
+        "SPAWNPEAHEN",
+        "SPAWNFLAMINGO",
+        "SPAWNROADRUNNER",
+        "SPAWNWHITEPEACOCK"
+      ],
+      "index_rule": "inverse_key",
+      "indices": [
+        3,
+        1,
+        5,
+        6,
+        2,
+        4
+      ],
+      "from_end": false,
+      "output": "ASNFPW"
+    },
+    {
+      "form": "full_spawn_label",
+      "order": "hotbar",
+      "sources": [
+        "SPAWNPEACOCK",
+        "SPAWNBLUEBIRD",
+        "SPAWNPEAHEN",
+        "SPAWNFLAMINGO",
+        "SPAWNROADRUNNER",
+        "SPAWNWHITEPEACOCK"
+      ],
+      "index_rule": "inverse_key",
+      "indices": [
+        3,
+        1,
+        5,
+        6,
+        2,
+        4
+      ],
+      "from_end": true,
+      "output": "ODEAEC"
+    },
+    {
+      "form": "full_spawn_label",
+      "order": "hotbar",
+      "sources": [
+        "SPAWNPEACOCK",
+        "SPAWNBLUEBIRD",
+        "SPAWNPEAHEN",
+        "SPAWNFLAMINGO",
+        "SPAWNROADRUNNER",
+        "SPAWNWHITEPEACOCK"
+      ],
+      "index_rule": "position",
+      "indices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "from_end": false,
+      "output": "SPAWNW"
+    },
+    {
+      "form": "full_spawn_label",
+      "order": "hotbar",
+      "sources": [
+        "SPAWNPEACOCK",
+        "SPAWNBLUEBIRD",
+        "SPAWNPEAHEN",
+        "SPAWNFLAMINGO",
+        "SPAWNROADRUNNER",
+        "SPAWNWHITEPEACOCK"
+      ],
+      "index_rule": "position",
+      "indices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "from_end": true,
+      "output": "KRHIUE"
+    },
+    {
+      "form": "full_spawn_label",
+      "order": "hotbar",
+      "sources": [
+        "SPAWNPEACOCK",
+        "SPAWNBLUEBIRD",
+        "SPAWNPEAHEN",
+        "SPAWNFLAMINGO",
+        "SPAWNROADRUNNER",
+        "SPAWNWHITEPEACOCK"
+      ],
+      "index_rule": "first",
+      "indices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "from_end": false,
+      "output": "SSSSSS"
+    },
+    {
+      "form": "full_spawn_label",
+      "order": "hotbar",
+      "sources": [
+        "SPAWNPEACOCK",
+        "SPAWNBLUEBIRD",
+        "SPAWNPEAHEN",
+        "SPAWNFLAMINGO",
+        "SPAWNROADRUNNER",
+        "SPAWNWHITEPEACOCK"
+      ],
+      "index_rule": "first",
+      "indices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "from_end": true,
+      "output": "KDNORK"
+    },
+    {
+      "form": "full_spawn_label",
+      "order": "hotbar",
+      "sources": [
+        "SPAWNPEACOCK",
+        "SPAWNBLUEBIRD",
+        "SPAWNPEAHEN",
+        "SPAWNFLAMINGO",
+        "SPAWNROADRUNNER",
+        "SPAWNWHITEPEACOCK"
+      ],
+      "index_rule": "fourth",
+      "indices": [
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "from_end": false,
+      "output": "WWWWWW"
+    },
+    {
+      "form": "full_spawn_label",
+      "order": "hotbar",
+      "sources": [
+        "SPAWNPEACOCK",
+        "SPAWNBLUEBIRD",
+        "SPAWNPEAHEN",
+        "SPAWNFLAMINGO",
+        "SPAWNROADRUNNER",
+        "SPAWNWHITEPEACOCK"
+      ],
+      "index_rule": "fourth",
+      "indices": [
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "from_end": true,
+      "output": "CBAINC"
+    },
+    {
+      "form": "full_spawn_label",
+      "order": "hotbar",
+      "sources": [
+        "SPAWNPEACOCK",
+        "SPAWNBLUEBIRD",
+        "SPAWNPEAHEN",
+        "SPAWNFLAMINGO",
+        "SPAWNROADRUNNER",
+        "SPAWNWHITEPEACOCK"
+      ],
+      "index_rule": "ninth",
+      "indices": [
+        9,
+        9,
+        9,
+        9,
+        9,
+        9
+      ],
+      "from_end": false,
+      "output": "CEHMDT"
+    },
+    {
+      "form": "full_spawn_label",
+      "order": "hotbar",
+      "sources": [
+        "SPAWNPEACOCK",
+        "SPAWNBLUEBIRD",
+        "SPAWNPEAHEN",
+        "SPAWNFLAMINGO",
+        "SPAWNROADRUNNER",
+        "SPAWNWHITEPEACOCK"
+      ],
+      "index_rule": "ninth",
+      "indices": [
+        9,
+        9,
+        9,
+        9,
+        9,
+        9
+      ],
+      "from_end": true,
+      "output": "WNANOT"
+    },
+    {
+      "form": "full_spawn_label",
+      "order": "reverse_hotbar",
+      "sources": [
+        "SPAWNWHITEPEACOCK",
+        "SPAWNROADRUNNER",
+        "SPAWNFLAMINGO",
+        "SPAWNPEAHEN",
+        "SPAWNBLUEBIRD",
+        "SPAWNPEACOCK"
+      ],
+      "index_rule": "key",
+      "indices": [
+        2,
+        5,
+        1,
+        6,
+        3,
+        4
+      ],
+      "from_end": false,
+      "output": "PNSPAW"
+    },
+    {
+      "form": "full_spawn_label",
+      "order": "reverse_hotbar",
+      "sources": [
+        "SPAWNWHITEPEACOCK",
+        "SPAWNROADRUNNER",
+        "SPAWNFLAMINGO",
+        "SPAWNPEAHEN",
+        "SPAWNBLUEBIRD",
+        "SPAWNPEACOCK"
+      ],
+      "index_rule": "key",
+      "indices": [
+        2,
+        5,
+        1,
+        6,
+        3,
+        4
+      ],
+      "from_end": true,
+      "output": "CUOPIC"
+    },
+    {
+      "form": "full_spawn_label",
+      "order": "reverse_hotbar",
+      "sources": [
+        "SPAWNWHITEPEACOCK",
+        "SPAWNROADRUNNER",
+        "SPAWNFLAMINGO",
+        "SPAWNPEAHEN",
+        "SPAWNBLUEBIRD",
+        "SPAWNPEACOCK"
+      ],
+      "index_rule": "inverse_key",
+      "indices": [
+        3,
+        1,
+        5,
+        6,
+        2,
+        4
+      ],
+      "from_end": false,
+      "output": "ASNPPW"
+    },
+    {
+      "form": "full_spawn_label",
+      "order": "reverse_hotbar",
+      "sources": [
+        "SPAWNWHITEPEACOCK",
+        "SPAWNROADRUNNER",
+        "SPAWNFLAMINGO",
+        "SPAWNPEAHEN",
+        "SPAWNBLUEBIRD",
+        "SPAWNPEACOCK"
+      ],
+      "index_rule": "inverse_key",
+      "indices": [
+        3,
+        1,
+        5,
+        6,
+        2,
+        4
+      ],
+      "from_end": true,
+      "output": "ORMPRC"
+    },
+    {
+      "form": "full_spawn_label",
+      "order": "reverse_hotbar",
+      "sources": [
+        "SPAWNWHITEPEACOCK",
+        "SPAWNROADRUNNER",
+        "SPAWNFLAMINGO",
+        "SPAWNPEAHEN",
+        "SPAWNBLUEBIRD",
+        "SPAWNPEACOCK"
+      ],
+      "index_rule": "position",
+      "indices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "from_end": false,
+      "output": "SPAWNP"
+    },
+    {
+      "form": "full_spawn_label",
+      "order": "reverse_hotbar",
+      "sources": [
+        "SPAWNWHITEPEACOCK",
+        "SPAWNROADRUNNER",
+        "SPAWNFLAMINGO",
+        "SPAWNPEAHEN",
+        "SPAWNBLUEBIRD",
+        "SPAWNPEACOCK"
+      ],
+      "index_rule": "position",
+      "indices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "from_end": true,
+      "output": "KENAEE"
+    },
+    {
+      "form": "full_spawn_label",
+      "order": "reverse_hotbar",
+      "sources": [
+        "SPAWNWHITEPEACOCK",
+        "SPAWNROADRUNNER",
+        "SPAWNFLAMINGO",
+        "SPAWNPEAHEN",
+        "SPAWNBLUEBIRD",
+        "SPAWNPEACOCK"
+      ],
+      "index_rule": "first",
+      "indices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "from_end": false,
+      "output": "SSSSSS"
+    },
+    {
+      "form": "full_spawn_label",
+      "order": "reverse_hotbar",
+      "sources": [
+        "SPAWNWHITEPEACOCK",
+        "SPAWNROADRUNNER",
+        "SPAWNFLAMINGO",
+        "SPAWNPEAHEN",
+        "SPAWNBLUEBIRD",
+        "SPAWNPEACOCK"
+      ],
+      "index_rule": "first",
+      "indices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "from_end": true,
+      "output": "KRONDK"
+    },
+    {
+      "form": "full_spawn_label",
+      "order": "reverse_hotbar",
+      "sources": [
+        "SPAWNWHITEPEACOCK",
+        "SPAWNROADRUNNER",
+        "SPAWNFLAMINGO",
+        "SPAWNPEAHEN",
+        "SPAWNBLUEBIRD",
+        "SPAWNPEACOCK"
+      ],
+      "index_rule": "fourth",
+      "indices": [
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "from_end": false,
+      "output": "WWWWWW"
+    },
+    {
+      "form": "full_spawn_label",
+      "order": "reverse_hotbar",
+      "sources": [
+        "SPAWNWHITEPEACOCK",
+        "SPAWNROADRUNNER",
+        "SPAWNFLAMINGO",
+        "SPAWNPEAHEN",
+        "SPAWNBLUEBIRD",
+        "SPAWNPEACOCK"
+      ],
+      "index_rule": "fourth",
+      "indices": [
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "from_end": true,
+      "output": "CNIABC"
+    },
+    {
+      "form": "full_spawn_label",
+      "order": "reverse_hotbar",
+      "sources": [
+        "SPAWNWHITEPEACOCK",
+        "SPAWNROADRUNNER",
+        "SPAWNFLAMINGO",
+        "SPAWNPEAHEN",
+        "SPAWNBLUEBIRD",
+        "SPAWNPEACOCK"
+      ],
+      "index_rule": "ninth",
+      "indices": [
+        9,
+        9,
+        9,
+        9,
+        9,
+        9
+      ],
+      "from_end": false,
+      "output": "TDMHEC"
+    },
+    {
+      "form": "full_spawn_label",
+      "order": "reverse_hotbar",
+      "sources": [
+        "SPAWNWHITEPEACOCK",
+        "SPAWNROADRUNNER",
+        "SPAWNFLAMINGO",
+        "SPAWNPEAHEN",
+        "SPAWNBLUEBIRD",
+        "SPAWNPEACOCK"
+      ],
+      "index_rule": "ninth",
+      "indices": [
+        9,
+        9,
+        9,
+        9,
+        9,
+        9
+      ],
+      "from_end": true,
+      "output": "TONANW"
+    },
+    {
+      "form": "full_spawn_label",
+      "order": "alphabetical",
+      "sources": [
+        "SPAWNBLUEBIRD",
+        "SPAWNFLAMINGO",
+        "SPAWNPEACOCK",
+        "SPAWNPEAHEN",
+        "SPAWNROADRUNNER",
+        "SPAWNWHITEPEACOCK"
+      ],
+      "index_rule": "key",
+      "indices": [
+        2,
+        5,
+        1,
+        6,
+        3,
+        4
+      ],
+      "from_end": false,
+      "output": "PNSPAW"
+    },
+    {
+      "form": "full_spawn_label",
+      "order": "alphabetical",
+      "sources": [
+        "SPAWNBLUEBIRD",
+        "SPAWNFLAMINGO",
+        "SPAWNPEACOCK",
+        "SPAWNPEAHEN",
+        "SPAWNROADRUNNER",
+        "SPAWNWHITEPEACOCK"
+      ],
+      "index_rule": "key",
+      "indices": [
+        2,
+        5,
+        1,
+        6,
+        3,
+        4
+      ],
+      "from_end": true,
+      "output": "RMKPNC"
+    },
+    {
+      "form": "full_spawn_label",
+      "order": "alphabetical",
+      "sources": [
+        "SPAWNBLUEBIRD",
+        "SPAWNFLAMINGO",
+        "SPAWNPEACOCK",
+        "SPAWNPEAHEN",
+        "SPAWNROADRUNNER",
+        "SPAWNWHITEPEACOCK"
+      ],
+      "index_rule": "inverse_key",
+      "indices": [
+        3,
+        1,
+        5,
+        6,
+        2,
+        4
+      ],
+      "from_end": false,
+      "output": "ASNPPW"
+    },
+    {
+      "form": "full_spawn_label",
+      "order": "alphabetical",
+      "sources": [
+        "SPAWNBLUEBIRD",
+        "SPAWNFLAMINGO",
+        "SPAWNPEACOCK",
+        "SPAWNPEAHEN",
+        "SPAWNROADRUNNER",
+        "SPAWNWHITEPEACOCK"
+      ],
+      "index_rule": "inverse_key",
+      "indices": [
+        3,
+        1,
+        5,
+        6,
+        2,
+        4
+      ],
+      "from_end": true,
+      "output": "IOAPEC"
+    },
+    {
+      "form": "full_spawn_label",
+      "order": "alphabetical",
+      "sources": [
+        "SPAWNBLUEBIRD",
+        "SPAWNFLAMINGO",
+        "SPAWNPEACOCK",
+        "SPAWNPEAHEN",
+        "SPAWNROADRUNNER",
+        "SPAWNWHITEPEACOCK"
+      ],
+      "index_rule": "position",
+      "indices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "from_end": false,
+      "output": "SPAWNW"
+    },
+    {
+      "form": "full_spawn_label",
+      "order": "alphabetical",
+      "sources": [
+        "SPAWNBLUEBIRD",
+        "SPAWNFLAMINGO",
+        "SPAWNPEACOCK",
+        "SPAWNPEAHEN",
+        "SPAWNROADRUNNER",
+        "SPAWNWHITEPEACOCK"
+      ],
+      "index_rule": "position",
+      "indices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "from_end": true,
+      "output": "DGOAUE"
+    },
+    {
+      "form": "full_spawn_label",
+      "order": "alphabetical",
+      "sources": [
+        "SPAWNBLUEBIRD",
+        "SPAWNFLAMINGO",
+        "SPAWNPEACOCK",
+        "SPAWNPEAHEN",
+        "SPAWNROADRUNNER",
+        "SPAWNWHITEPEACOCK"
+      ],
+      "index_rule": "first",
+      "indices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "from_end": false,
+      "output": "SSSSSS"
+    },
+    {
+      "form": "full_spawn_label",
+      "order": "alphabetical",
+      "sources": [
+        "SPAWNBLUEBIRD",
+        "SPAWNFLAMINGO",
+        "SPAWNPEACOCK",
+        "SPAWNPEAHEN",
+        "SPAWNROADRUNNER",
+        "SPAWNWHITEPEACOCK"
+      ],
+      "index_rule": "first",
+      "indices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "from_end": true,
+      "output": "DOKNRK"
+    },
+    {
+      "form": "full_spawn_label",
+      "order": "alphabetical",
+      "sources": [
+        "SPAWNBLUEBIRD",
+        "SPAWNFLAMINGO",
+        "SPAWNPEACOCK",
+        "SPAWNPEAHEN",
+        "SPAWNROADRUNNER",
+        "SPAWNWHITEPEACOCK"
+      ],
+      "index_rule": "fourth",
+      "indices": [
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "from_end": false,
+      "output": "WWWWWW"
+    },
+    {
+      "form": "full_spawn_label",
+      "order": "alphabetical",
+      "sources": [
+        "SPAWNBLUEBIRD",
+        "SPAWNFLAMINGO",
+        "SPAWNPEACOCK",
+        "SPAWNPEAHEN",
+        "SPAWNROADRUNNER",
+        "SPAWNWHITEPEACOCK"
+      ],
+      "index_rule": "fourth",
+      "indices": [
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "from_end": true,
+      "output": "BICANC"
+    },
+    {
+      "form": "full_spawn_label",
+      "order": "alphabetical",
+      "sources": [
+        "SPAWNBLUEBIRD",
+        "SPAWNFLAMINGO",
+        "SPAWNPEACOCK",
+        "SPAWNPEAHEN",
+        "SPAWNROADRUNNER",
+        "SPAWNWHITEPEACOCK"
+      ],
+      "index_rule": "ninth",
+      "indices": [
+        9,
+        9,
+        9,
+        9,
+        9,
+        9
+      ],
+      "from_end": false,
+      "output": "EMCHDT"
+    },
+    {
+      "form": "full_spawn_label",
+      "order": "alphabetical",
+      "sources": [
+        "SPAWNBLUEBIRD",
+        "SPAWNFLAMINGO",
+        "SPAWNPEACOCK",
+        "SPAWNPEAHEN",
+        "SPAWNROADRUNNER",
+        "SPAWNWHITEPEACOCK"
+      ],
+      "index_rule": "ninth",
+      "indices": [
+        9,
+        9,
+        9,
+        9,
+        9,
+        9
+      ],
+      "from_end": true,
+      "output": "NNWAOT"
+    },
+    {
+      "form": "full_spawn_label",
+      "order": "key_read_order",
+      "sources": [
+        "SPAWNBLUEBIRD",
+        "SPAWNROADRUNNER",
+        "SPAWNPEACOCK",
+        "SPAWNWHITEPEACOCK",
+        "SPAWNPEAHEN",
+        "SPAWNFLAMINGO"
+      ],
+      "index_rule": "key",
+      "indices": [
+        2,
+        5,
+        1,
+        6,
+        3,
+        4
+      ],
+      "from_end": false,
+      "output": "PNSWAW"
+    },
+    {
+      "form": "full_spawn_label",
+      "order": "key_read_order",
+      "sources": [
+        "SPAWNBLUEBIRD",
+        "SPAWNROADRUNNER",
+        "SPAWNPEACOCK",
+        "SPAWNWHITEPEACOCK",
+        "SPAWNPEAHEN",
+        "SPAWNFLAMINGO"
+      ],
+      "index_rule": "key",
+      "indices": [
+        2,
+        5,
+        1,
+        6,
+        3,
+        4
+      ],
+      "from_end": true,
+      "output": "RUKEHI"
+    },
+    {
+      "form": "full_spawn_label",
+      "order": "key_read_order",
+      "sources": [
+        "SPAWNBLUEBIRD",
+        "SPAWNROADRUNNER",
+        "SPAWNPEACOCK",
+        "SPAWNWHITEPEACOCK",
+        "SPAWNPEAHEN",
+        "SPAWNFLAMINGO"
+      ],
+      "index_rule": "inverse_key",
+      "indices": [
+        3,
+        1,
+        5,
+        6,
+        2,
+        4
+      ],
+      "from_end": false,
+      "output": "ASNWPW"
+    },
+    {
+      "form": "full_spawn_label",
+      "order": "key_read_order",
+      "sources": [
+        "SPAWNBLUEBIRD",
+        "SPAWNROADRUNNER",
+        "SPAWNPEACOCK",
+        "SPAWNWHITEPEACOCK",
+        "SPAWNPEAHEN",
+        "SPAWNFLAMINGO"
+      ],
+      "index_rule": "inverse_key",
+      "indices": [
+        3,
+        1,
+        5,
+        6,
+        2,
+        4
+      ],
+      "from_end": true,
+      "output": "IRAEEI"
+    },
+    {
+      "form": "full_spawn_label",
+      "order": "key_read_order",
+      "sources": [
+        "SPAWNBLUEBIRD",
+        "SPAWNROADRUNNER",
+        "SPAWNPEACOCK",
+        "SPAWNWHITEPEACOCK",
+        "SPAWNPEAHEN",
+        "SPAWNFLAMINGO"
+      ],
+      "index_rule": "position",
+      "indices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "from_end": false,
+      "output": "SPAWNF"
+    },
+    {
+      "form": "full_spawn_label",
+      "order": "key_read_order",
+      "sources": [
+        "SPAWNBLUEBIRD",
+        "SPAWNROADRUNNER",
+        "SPAWNPEACOCK",
+        "SPAWNWHITEPEACOCK",
+        "SPAWNPEAHEN",
+        "SPAWNFLAMINGO"
+      ],
+      "index_rule": "position",
+      "indices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "from_end": true,
+      "output": "DEOCEA"
+    },
+    {
+      "form": "full_spawn_label",
+      "order": "key_read_order",
+      "sources": [
+        "SPAWNBLUEBIRD",
+        "SPAWNROADRUNNER",
+        "SPAWNPEACOCK",
+        "SPAWNWHITEPEACOCK",
+        "SPAWNPEAHEN",
+        "SPAWNFLAMINGO"
+      ],
+      "index_rule": "first",
+      "indices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "from_end": false,
+      "output": "SSSSSS"
+    },
+    {
+      "form": "full_spawn_label",
+      "order": "key_read_order",
+      "sources": [
+        "SPAWNBLUEBIRD",
+        "SPAWNROADRUNNER",
+        "SPAWNPEACOCK",
+        "SPAWNWHITEPEACOCK",
+        "SPAWNPEAHEN",
+        "SPAWNFLAMINGO"
+      ],
+      "index_rule": "first",
+      "indices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "from_end": true,
+      "output": "DRKKNO"
+    },
+    {
+      "form": "full_spawn_label",
+      "order": "key_read_order",
+      "sources": [
+        "SPAWNBLUEBIRD",
+        "SPAWNROADRUNNER",
+        "SPAWNPEACOCK",
+        "SPAWNWHITEPEACOCK",
+        "SPAWNPEAHEN",
+        "SPAWNFLAMINGO"
+      ],
+      "index_rule": "fourth",
+      "indices": [
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "from_end": false,
+      "output": "WWWWWW"
+    },
+    {
+      "form": "full_spawn_label",
+      "order": "key_read_order",
+      "sources": [
+        "SPAWNBLUEBIRD",
+        "SPAWNROADRUNNER",
+        "SPAWNPEACOCK",
+        "SPAWNWHITEPEACOCK",
+        "SPAWNPEAHEN",
+        "SPAWNFLAMINGO"
+      ],
+      "index_rule": "fourth",
+      "indices": [
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "from_end": true,
+      "output": "BNCCAI"
+    },
+    {
+      "form": "full_spawn_label",
+      "order": "key_read_order",
+      "sources": [
+        "SPAWNBLUEBIRD",
+        "SPAWNROADRUNNER",
+        "SPAWNPEACOCK",
+        "SPAWNWHITEPEACOCK",
+        "SPAWNPEAHEN",
+        "SPAWNFLAMINGO"
+      ],
+      "index_rule": "ninth",
+      "indices": [
+        9,
+        9,
+        9,
+        9,
+        9,
+        9
+      ],
+      "from_end": false,
+      "output": "EDCTHM"
+    },
+    {
+      "form": "full_spawn_label",
+      "order": "key_read_order",
+      "sources": [
+        "SPAWNBLUEBIRD",
+        "SPAWNROADRUNNER",
+        "SPAWNPEACOCK",
+        "SPAWNWHITEPEACOCK",
+        "SPAWNPEAHEN",
+        "SPAWNFLAMINGO"
+      ],
+      "index_rule": "ninth",
+      "indices": [
+        9,
+        9,
+        9,
+        9,
+        9,
+        9
+      ],
+      "from_end": true,
+      "output": "NOWTAN"
+    },
+    {
+      "form": "full_spawn_label",
+      "order": "key_destination_order",
+      "sources": [
+        "SPAWNPEAHEN",
+        "SPAWNPEACOCK",
+        "SPAWNROADRUNNER",
+        "SPAWNWHITEPEACOCK",
+        "SPAWNBLUEBIRD",
+        "SPAWNFLAMINGO"
+      ],
+      "index_rule": "key",
+      "indices": [
+        2,
+        5,
+        1,
+        6,
+        3,
+        4
+      ],
+      "from_end": false,
+      "output": "PNSWAW"
+    },
+    {
+      "form": "full_spawn_label",
+      "order": "key_destination_order",
+      "sources": [
+        "SPAWNPEAHEN",
+        "SPAWNPEACOCK",
+        "SPAWNROADRUNNER",
+        "SPAWNWHITEPEACOCK",
+        "SPAWNBLUEBIRD",
+        "SPAWNFLAMINGO"
+      ],
+      "index_rule": "key",
+      "indices": [
+        2,
+        5,
+        1,
+        6,
+        3,
+        4
+      ],
+      "from_end": true,
+      "output": "EAREII"
+    },
+    {
+      "form": "full_spawn_label",
+      "order": "key_destination_order",
+      "sources": [
+        "SPAWNPEAHEN",
+        "SPAWNPEACOCK",
+        "SPAWNROADRUNNER",
+        "SPAWNWHITEPEACOCK",
+        "SPAWNBLUEBIRD",
+        "SPAWNFLAMINGO"
+      ],
+      "index_rule": "inverse_key",
+      "indices": [
+        3,
+        1,
+        5,
+        6,
+        2,
+        4
+      ],
+      "from_end": false,
+      "output": "ASNWPW"
+    },
+    {
+      "form": "full_spawn_label",
+      "order": "key_destination_order",
+      "sources": [
+        "SPAWNPEAHEN",
+        "SPAWNPEACOCK",
+        "SPAWNROADRUNNER",
+        "SPAWNWHITEPEACOCK",
+        "SPAWNBLUEBIRD",
+        "SPAWNFLAMINGO"
+      ],
+      "index_rule": "inverse_key",
+      "indices": [
+        3,
+        1,
+        5,
+        6,
+        2,
+        4
+      ],
+      "from_end": true,
+      "output": "HKUERI"
+    },
+    {
+      "form": "full_spawn_label",
+      "order": "key_destination_order",
+      "sources": [
+        "SPAWNPEAHEN",
+        "SPAWNPEACOCK",
+        "SPAWNROADRUNNER",
+        "SPAWNWHITEPEACOCK",
+        "SPAWNBLUEBIRD",
+        "SPAWNFLAMINGO"
+      ],
+      "index_rule": "position",
+      "indices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "from_end": false,
+      "output": "SPAWNF"
+    },
+    {
+      "form": "full_spawn_label",
+      "order": "key_destination_order",
+      "sources": [
+        "SPAWNPEAHEN",
+        "SPAWNPEACOCK",
+        "SPAWNROADRUNNER",
+        "SPAWNWHITEPEACOCK",
+        "SPAWNBLUEBIRD",
+        "SPAWNFLAMINGO"
+      ],
+      "index_rule": "position",
+      "indices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "from_end": true,
+      "output": "NCNCEA"
+    },
+    {
+      "form": "full_spawn_label",
+      "order": "key_destination_order",
+      "sources": [
+        "SPAWNPEAHEN",
+        "SPAWNPEACOCK",
+        "SPAWNROADRUNNER",
+        "SPAWNWHITEPEACOCK",
+        "SPAWNBLUEBIRD",
+        "SPAWNFLAMINGO"
+      ],
+      "index_rule": "first",
+      "indices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "from_end": false,
+      "output": "SSSSSS"
+    },
+    {
+      "form": "full_spawn_label",
+      "order": "key_destination_order",
+      "sources": [
+        "SPAWNPEAHEN",
+        "SPAWNPEACOCK",
+        "SPAWNROADRUNNER",
+        "SPAWNWHITEPEACOCK",
+        "SPAWNBLUEBIRD",
+        "SPAWNFLAMINGO"
+      ],
+      "index_rule": "first",
+      "indices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "from_end": true,
+      "output": "NKRKDO"
+    },
+    {
+      "form": "full_spawn_label",
+      "order": "key_destination_order",
+      "sources": [
+        "SPAWNPEAHEN",
+        "SPAWNPEACOCK",
+        "SPAWNROADRUNNER",
+        "SPAWNWHITEPEACOCK",
+        "SPAWNBLUEBIRD",
+        "SPAWNFLAMINGO"
+      ],
+      "index_rule": "fourth",
+      "indices": [
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "from_end": false,
+      "output": "WWWWWW"
+    },
+    {
+      "form": "full_spawn_label",
+      "order": "key_destination_order",
+      "sources": [
+        "SPAWNPEAHEN",
+        "SPAWNPEACOCK",
+        "SPAWNROADRUNNER",
+        "SPAWNWHITEPEACOCK",
+        "SPAWNBLUEBIRD",
+        "SPAWNFLAMINGO"
+      ],
+      "index_rule": "fourth",
+      "indices": [
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "from_end": true,
+      "output": "ACNCBI"
+    },
+    {
+      "form": "full_spawn_label",
+      "order": "key_destination_order",
+      "sources": [
+        "SPAWNPEAHEN",
+        "SPAWNPEACOCK",
+        "SPAWNROADRUNNER",
+        "SPAWNWHITEPEACOCK",
+        "SPAWNBLUEBIRD",
+        "SPAWNFLAMINGO"
+      ],
+      "index_rule": "ninth",
+      "indices": [
+        9,
+        9,
+        9,
+        9,
+        9,
+        9
+      ],
+      "from_end": false,
+      "output": "HCDTEM"
+    },
+    {
+      "form": "full_spawn_label",
+      "order": "key_destination_order",
+      "sources": [
+        "SPAWNPEAHEN",
+        "SPAWNPEACOCK",
+        "SPAWNROADRUNNER",
+        "SPAWNWHITEPEACOCK",
+        "SPAWNBLUEBIRD",
+        "SPAWNFLAMINGO"
+      ],
+      "index_rule": "ninth",
+      "indices": [
+        9,
+        9,
+        9,
+        9,
+        9,
+        9
+      ],
+      "from_end": true,
+      "output": "AWOTNN"
+    }
+  ],
+  "single_source_tests": [
+    {
+      "source": "instruction",
+      "text": "FOURTH UPLOAD",
+      "normalized": "FOURTHUPLOAD",
+      "index_rule": "key",
+      "indices": [
+        2,
+        5,
+        1,
+        6,
+        3,
+        4
+      ],
+      "from_end": false,
+      "output": "OTFHUR"
+    },
+    {
+      "source": "instruction",
+      "text": "FOURTH UPLOAD",
+      "normalized": "FOURTHUPLOAD",
+      "index_rule": "key",
+      "indices": [
+        2,
+        5,
+        1,
+        6,
+        3,
+        4
+      ],
+      "from_end": true,
+      "output": "APDUOL"
+    },
+    {
+      "source": "instruction",
+      "text": "FOURTH UPLOAD",
+      "normalized": "FOURTHUPLOAD",
+      "index_rule": "inverse_key",
+      "indices": [
+        3,
+        1,
+        5,
+        6,
+        2,
+        4
+      ],
+      "from_end": false,
+      "output": "UFTHOR"
+    },
+    {
+      "source": "instruction",
+      "text": "FOURTH UPLOAD",
+      "normalized": "FOURTHUPLOAD",
+      "index_rule": "inverse_key",
+      "indices": [
+        3,
+        1,
+        5,
+        6,
+        2,
+        4
+      ],
+      "from_end": true,
+      "output": "ODPUAL"
+    },
+    {
+      "source": "instruction_first_word",
+      "text": "FOURTH",
+      "normalized": "FOURTH",
+      "index_rule": "key",
+      "indices": [
+        2,
+        5,
+        1,
+        6,
+        3,
+        4
+      ],
+      "from_end": false,
+      "output": "OTFHUR"
+    },
+    {
+      "source": "instruction_first_word",
+      "text": "FOURTH",
+      "normalized": "FOURTH",
+      "index_rule": "key",
+      "indices": [
+        2,
+        5,
+        1,
+        6,
+        3,
+        4
+      ],
+      "from_end": true,
+      "output": "TOHFRU"
+    },
+    {
+      "source": "instruction_first_word",
+      "text": "FOURTH",
+      "normalized": "FOURTH",
+      "index_rule": "inverse_key",
+      "indices": [
+        3,
+        1,
+        5,
+        6,
+        2,
+        4
+      ],
+      "from_end": false,
+      "output": "UFTHOR"
+    },
+    {
+      "source": "instruction_first_word",
+      "text": "FOURTH",
+      "normalized": "FOURTH",
+      "index_rule": "inverse_key",
+      "indices": [
+        3,
+        1,
+        5,
+        6,
+        2,
+        4
+      ],
+      "from_end": true,
+      "output": "RHOFTU"
+    },
+    {
+      "source": "instruction_last_word",
+      "text": "UPLOAD",
+      "normalized": "UPLOAD",
+      "index_rule": "key",
+      "indices": [
+        2,
+        5,
+        1,
+        6,
+        3,
+        4
+      ],
+      "from_end": false,
+      "output": "PAUDLO"
+    },
+    {
+      "source": "instruction_last_word",
+      "text": "UPLOAD",
+      "normalized": "UPLOAD",
+      "index_rule": "key",
+      "indices": [
+        2,
+        5,
+        1,
+        6,
+        3,
+        4
+      ],
+      "from_end": true,
+      "output": "APDUOL"
+    },
+    {
+      "source": "instruction_last_word",
+      "text": "UPLOAD",
+      "normalized": "UPLOAD",
+      "index_rule": "inverse_key",
+      "indices": [
+        3,
+        1,
+        5,
+        6,
+        2,
+        4
+      ],
+      "from_end": false,
+      "output": "LUADPO"
+    },
+    {
+      "source": "instruction_last_word",
+      "text": "UPLOAD",
+      "normalized": "UPLOAD",
+      "index_rule": "inverse_key",
+      "indices": [
+        3,
+        1,
+        5,
+        6,
+        2,
+        4
+      ],
+      "from_end": true,
+      "output": "ODPUAL"
+    },
+    {
+      "source": "video_title",
+      "text": "More birds IN MINECRAFT!!",
+      "normalized": "MOREBIRDSINMINECRAFT",
+      "index_rule": "key",
+      "indices": [
+        2,
+        5,
+        1,
+        6,
+        3,
+        4
+      ],
+      "from_end": false,
+      "output": "OBMIRE"
+    },
+    {
+      "source": "video_title",
+      "text": "More birds IN MINECRAFT!!",
+      "normalized": "MOREBIRDSINMINECRAFT",
+      "index_rule": "key",
+      "indices": [
+        2,
+        5,
+        1,
+        6,
+        3,
+        4
+      ],
+      "from_end": true,
+      "output": "FCTEAR"
+    },
+    {
+      "source": "video_title",
+      "text": "More birds IN MINECRAFT!!",
+      "normalized": "MOREBIRDSINMINECRAFT",
+      "index_rule": "inverse_key",
+      "indices": [
+        3,
+        1,
+        5,
+        6,
+        2,
+        4
+      ],
+      "from_end": false,
+      "output": "RMBIOE"
+    },
+    {
+      "source": "video_title",
+      "text": "More birds IN MINECRAFT!!",
+      "normalized": "MOREBIRDSINMINECRAFT",
+      "index_rule": "inverse_key",
+      "indices": [
+        3,
+        1,
+        5,
+        6,
+        2,
+        4
+      ],
+      "from_end": true,
+      "output": "ATCEFR"
+    },
+    {
+      "source": "title_last_word",
+      "text": "MINECRAFT!!",
+      "normalized": "MINECRAFT",
+      "index_rule": "key",
+      "indices": [
+        2,
+        5,
+        1,
+        6,
+        3,
+        4
+      ],
+      "from_end": false,
+      "output": "ICMRNE"
+    },
+    {
+      "source": "title_last_word",
+      "text": "MINECRAFT!!",
+      "normalized": "MINECRAFT",
+      "index_rule": "key",
+      "indices": [
+        2,
+        5,
+        1,
+        6,
+        3,
+        4
+      ],
+      "from_end": true,
+      "output": "FCTEAR"
+    },
+    {
+      "source": "title_last_word",
+      "text": "MINECRAFT!!",
+      "normalized": "MINECRAFT",
+      "index_rule": "inverse_key",
+      "indices": [
+        3,
+        1,
+        5,
+        6,
+        2,
+        4
+      ],
+      "from_end": false,
+      "output": "NMCRIE"
+    },
+    {
+      "source": "title_last_word",
+      "text": "MINECRAFT!!",
+      "normalized": "MINECRAFT",
+      "index_rule": "inverse_key",
+      "indices": [
+        3,
+        1,
+        5,
+        6,
+        2,
+        4
+      ],
+      "from_end": true,
+      "output": "ATCEFR"
+    },
+    {
+      "source": "description_line_1",
+      "text": "Basically what this mod does is adds more birds to minecraft.",
+      "normalized": "BASICALLYWHATTHISMODDOESISADDSMOREBIRDSTOMINECRAFT",
+      "index_rule": "key",
+      "indices": [
+        2,
+        5,
+        1,
+        6,
+        3,
+        4
+      ],
+      "from_end": false,
+      "output": "ACBASI"
+    },
+    {
+      "source": "description_line_1",
+      "text": "Basically what this mod does is adds more birds to minecraft.",
+      "normalized": "BASICALLYWHATTHISMODDOESISADDSMOREBIRDSTOMINECRAFT",
+      "index_rule": "key",
+      "indices": [
+        2,
+        5,
+        1,
+        6,
+        3,
+        4
+      ],
+      "from_end": true,
+      "output": "FCTEAR"
+    },
+    {
+      "source": "description_line_1",
+      "text": "Basically what this mod does is adds more birds to minecraft.",
+      "normalized": "BASICALLYWHATTHISMODDOESISADDSMOREBIRDSTOMINECRAFT",
+      "index_rule": "inverse_key",
+      "indices": [
+        3,
+        1,
+        5,
+        6,
+        2,
+        4
+      ],
+      "from_end": false,
+      "output": "SBCAAI"
+    },
+    {
+      "source": "description_line_1",
+      "text": "Basically what this mod does is adds more birds to minecraft.",
+      "normalized": "BASICALLYWHATTHISMODDOESISADDSMOREBIRDSTOMINECRAFT",
+      "index_rule": "inverse_key",
+      "indices": [
+        3,
+        1,
+        5,
+        6,
+        2,
+        4
+      ],
+      "from_end": true,
+      "output": "ATCEFR"
+    },
+    {
+      "source": "description_line_3",
+      "text": "i forgot to mention that you can find nest which have eggs in them....",
+      "normalized": "IFORGOTTOMENTIONTHATYOUCANFINDNESTWHICHHAVEEGGSINTHEM",
+      "index_rule": "key",
+      "indices": [
+        2,
+        5,
+        1,
+        6,
+        3,
+        4
+      ],
+      "from_end": false,
+      "output": "FGIOOR"
+    },
+    {
+      "source": "description_line_3",
+      "text": "i forgot to mention that you can find nest which have eggs in them....",
+      "normalized": "IFORGOTTOMENTIONTHATYOUCANFINDNESTWHICHHAVEEGGSINTHEM",
+      "index_rule": "key",
+      "indices": [
+        2,
+        5,
+        1,
+        6,
+        3,
+        4
+      ],
+      "from_end": true,
+      "output": "ENMIHT"
+    },
+    {
+      "source": "description_line_3",
+      "text": "i forgot to mention that you can find nest which have eggs in them....",
+      "normalized": "IFORGOTTOMENTIONTHATYOUCANFINDNESTWHICHHAVEEGGSINTHEM",
+      "index_rule": "inverse_key",
+      "indices": [
+        3,
+        1,
+        5,
+        6,
+        2,
+        4
+      ],
+      "from_end": false,
+      "output": "OIGOFR"
+    },
+    {
+      "source": "description_line_3",
+      "text": "i forgot to mention that you can find nest which have eggs in them....",
+      "normalized": "IFORGOTTOMENTIONTHATYOUCANFINDNESTWHICHHAVEEGGSINTHEM",
+      "index_rule": "inverse_key",
+      "indices": [
+        3,
+        1,
+        5,
+        6,
+        2,
+        4
+      ],
+      "from_end": true,
+      "output": "HMNIET"
+    }
+  ],
+  "dictionaries": [
+    "/usr/share/dict/american-english",
+    "/usr/share/dict/british-english"
+  ],
+  "dictionary_matches": []
+}

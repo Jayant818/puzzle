@@ -1,0 +1,873 @@
+Cryptex Magazine: Cryptex Hunt 2019 Solution Guide
+
+
+Table of Contents
+
+
+Cryptex Magazine Cover................................................................................................................. 2
+Jigsaw + Start Code ...................................................................................................................... 3
+Colorize Your Cryptex .................................................................................................................... 4
+From the Editor ............................................................................................................................. 5
+Editor Photo .................................................................................................................................. 6
+The Tale of Ord ............................................................................................................................. 7
+Feedback and Reviews ................................................................................................................... 8
+Conundrum ................................................................................................................................... 9
+Lexicon Green ............................................................................................................................. 10
+Cryptexes In The Wild ................................................................................................................. 11
+Puzzle Connection ....................................................................................................................... 12
+The Enigma Emporium................................................................................................................. 13
+Dear Manpans ............................................................................................................................. 14
+The Werewolf Experiment ............................................................................................................ 15
+4 Uses for a Cryptex .................................................................................................................... 16
+An Interview with Justin Nevins .................................................................................................... 17
+Cryptexes and Escape Rooms ....................................................................................................... 18
+Which Prexcyt Dragon are You? .................................................................................................... 19
+Cryptexflix .................................................................................................................................. 20
+Room Escape Divas ..................................................................................................................... 21
+How to Make a Cryptex ................................................................................................................ 22
+
+
+
+
+© Copyright 2019 CryptexHunt.com. Cryptex is a registered trademark of Cryptex.org.                                                                 1
+Cryptex Magazine: Cryptex Hunt 2019 Solution Guide
+
+Cryptex Magazine Cover
+This was the start to the Cryptex Hunt 2019. You were presented with only the cover of the Cryptex
+and needed to learn how to start the hunt.
+
+Focusing on the bar code:
+
+
+
+
+Converting the numbers to text, it says: START HERE, confirming that you’re in the right place.
+
+The lines in the barcode don’t match regular barcode patterns. However, they have an arrangement of
+wide and narrow bands that look like Morse code.
+
+As an extra hint, if you zoom in on Justin’s glasses, you’ll see the word MORSE:
+
+
+
+
+Converting the barcode as Morse code:
+-.-. / .-. / -.-- / .--. / - / . / -..- / .... / ..- / -. / - / .-.-.- / -.-
+. / --- / -- / -..-. / -.-. / .... / .---- / ----.
+
+
+
+Solution:
+CRYPTEXHUNT.COM/CH19
+
+
+
+© Copyright 2019 CryptexHunt.com. Cryptex is a registered trademark of Cryptex.org.                   2
+Cryptex Magazine: Cryptex Hunt 2019 Solution Guide
+
+Jigsaw + Start Code
+
+The URL from the barcode took you to a site with a jigsaw to assemble. Solving the puzzle (or just
+looking at the completed puzzle preview) gave you the following image.
+
+
+
+
+Several letters in the “To get started” box are colored differently than the rest. If you arrange these in
+the order of the colors in the ClueKeeper logo, clockwise from the top-right, you get the following:
+
+
+
+
+Solution:
+ENGAGE
+
+
+
+This is the code used to start the hunt in the ClueKeeper app.
+
+
+
+The start info in the ClueKeeper app provided the URL and password to the full magazine PDF.
+
+http://cryptexhunt.com/2019/mag.pdf
+LOCKBOX
+
+
+
+© Copyright 2019 CryptexHunt.com. Cryptex is a registered trademark of Cryptex.org.                          3
+Cryptex Magazine: Cryptex Hunt 2019 Solution Guide
+
+Colorize Your Cryptex
+
+The ad text gives the order of White, Black, Red, Green, Purple, Blue.
+
+This puzzle is laid out like a telephone keypad, as hinted by “Call us today…”.
+
+Each of these Cryptexes appears in one of the cells in the grid, with one or more Cryptexes being
+shown, representing the number of times the key would be pressed, or the number of the letter on the
+key.
+
+
+
+
+                                                   ABC            DEF
+                                                 Black x 1      Purple x 2
+
+
+
+                                    GHI            JKL            MNO
+                                                  Blue x 3      White x 1
+
+
+
+                                  PQRS             TUV           WXYZ
+                                  Red x 3        Green x 3
+
+
+
+
+Go through the order (White, Black, Red, Green, Purple, Blue) and pull out the letter that matches the
+number of Cryptexes pictured.
+
+
+
+
+Solution:
+MARVEL
+
+
+
+
+© Copyright 2019 CryptexHunt.com. Cryptex is a registered trademark of Cryptex.org.                      4
+Cryptex Magazine: Cryptex Hunt 2019 Solution Guide
+
+From the Editor
+
+The instructions to pick up on are contained in the next-to-last paragraph of the letter.
+
+       perusing each line… those that are … odd.
+
+       Each is chock full of character … make note of those that come up the most.
+
+
+
+To decode the letter, you need to go through it line by line as printed on the page, skipping the even
+lines, and find which letter occurs the most from each line. When you do, you’ll extract the following
+phrase:
+
+
+CAPITAL OF GREECE
+
+
+
+
+Solution:
+ATHENS
+
+
+
+
+© Copyright 2019 CryptexHunt.com. Cryptex is a registered trademark of Cryptex.org.                      5
+Cryptex Magazine: Cryptex Hunt 2019 Solution Guide
+
+Editor Photo
+
+The books pictured in the background are the relevant items for this puzzle. The note in the caption,
+“counting on you”, is a hint to guide you toward treating them as if they were an abacus.
+
+In a normal abacus, the beads below the tally line (the center) have a value of 1, and the beads above
+the tally line have a value of 5. The beads moved to the center are those that are included in the tally.
+The beads toward the outside edges are not.
+
+Of course, for this puzzle, the layout is a modified version, having more 5s than would be typical.
+
+Each shelf is treated independently. The left side of the shelf is the lower portion of the abacus (1) and
+the right side is the upper portion (5). If it helps, you can visualize each bookcase rotated to the left
+(counter-clockwise).
+
+Tallying each of the shelves:
+
+   2        5     15     23      21      12      6       6      15       5
+   B        E     O      W       U        L      F       F      O        E
+
+
+BEOWULF FOE
+
+
+
+
+Solution:
+GRENDEL
+
+
+
+
+© Copyright 2019 CryptexHunt.com. Cryptex is a registered trademark of Cryptex.org.                          6
+Cryptex Magazine: Cryptex Hunt 2019 Solution Guide
+
+The Tale of Ord
+
+This puzzle ad is provided courtesy of PostCurious.
+
+The puzzle requires you to find the Jelling Church using Google Maps
+and to find the interior Street View from 2017 by A. Simko.
+
+Looking around the interior, you’ll see a hymn board pictured right.
+
+The hymns on the board line up with the catalogue scroll pictured in
+the ad.
+
+The runestone image on the right side of the ad has runes carved
+around the edge. These decode to www.runesnruins.com.
+
+Exploring this web site, particularly the section on runestones, you’ll
+notice that some of the locations on the site map to the abbreviations
+on the catalogue in the ad.
+
+Looking up the numbers you extracted from the hymn board to the
+appropriate locations:
+
+ #      Hymn     Code      Num      Location             Runestone
+ vi      747      U         47      Uppland              Lovo
+ vii     447      U         47      Uppland              Lovo
+  iii    449      U         49      Uppland              Lovo
+ iv      292      U         29      Uppland              Hillersjo
+   i     369      Sö        69      Södermanland         Valla
+  v     430v1     Sö        39      Södermanland         Ada
+ viii    192      U         19      Uppland              Alby
+   ii    31       Ög        31      Östergötland         A
+
+
+If you rearrange the runestone names by the Roman numerals shown on the scroll, the initial letters
+will give you the answer.
+
+
+
+
+Solution:
+VALHALLA
+
+
+
+Thanks to Rita Orlov for this puzzle.
+Be sure to check out The Tale of Ord from PostCurious!
+
+
+
+© Copyright 2019 CryptexHunt.com. Cryptex is a registered trademark of Cryptex.org.                   7
+Cryptex Magazine: Cryptex Hunt 2019 Solution Guide
+
+Feedback and Reviews
+
+Each of the “reviews” quoted in this feature are references to famous movie quotes, all of which are on
+the AFI 100 list. The additional text should help confirm the movie in question.
+
+The intro text has these hints:
+
+       Over the years… a variety of characters …
+
+       By the size … whatever else you take away … it indicates how these reviewers are impressed!
+
+
+
+The first step is to find the original quote for each of these modified quotes, and identify the character
+speaking the quote, the word that was replaced, and the year of the movie. The puzzle provided the
+initials of the speaker to confirm the name to use.
+
+
+
+ Quote               Movie                         Year      Speaker         Word        Length       Ltr
+ Here's looking…     Casablanca                    1942      BLAINE          kid           3           A
+ They call me…       In the Heat of the Night      1967      TIBBS           Tibbs         5           S
+ Made it, Ma! …      White Heat                    1949      JARRETT         world         5           E
+ Show me …           Jerry Maguire                 1996      TIDWELL         money         5           E
+ You know how...     To Have and Have Not          1944      BROWNING        lips          4          W
+ My mama...          Forrest Gump                  1994      GUMP            box           3          M
+ Cryptex, for…       Wall Street                   1987      GEKKO           greed         5           O
+
+
+The next step is to sort the movies by year.
+
+Finally, indexing the speaker’s last name by the length of the word that was replaced reveals the
+answer.
+
+
+
+
+Solution:
+AWESOME
+
+
+
+
+© Copyright 2019 CryptexHunt.com. Cryptex is a registered trademark of Cryptex.org.                          8
+Cryptex Magazine: Cryptex Hunt 2019 Solution Guide
+
+Conundrum
+
+This puzzle ad is provided courtesy of Shannon McDowell.
+
+
+
+The puzzle provides the following hints:
+
+       First and Last
+
+       arrange the top ten
+
+
+
+You can take each of the phrases and lay them out, one per line. Some lines have multiple phrases
+joined by a dot – these should be split onto separate lines.
+
+
+
+                                       C      onundru     m
+                                       O ther ... als o
+                                       M ost ... puzzle s
+                                       E njoy ... ar t
+                                       V iews ... trave l
+                                       I t’s ... welcom e
+                                       S tay ... bes t
+                                       I dlewild ... Wes t
+                                       T he ... adventur e
+                                       U nique ... puzzle r
+                                       S   ee...    draw  s
+
+
+
+Noticing the first letters, you see it spells out “COME VISIT US”, which coincides with the text at the
+top of the page, confirming the order. The last letters spell out “most letters”.
+
+Now, to apply the “arrange the top ten” step: find the top 10 letters that occur the most frequently in
+the ad to get the following letters: ETASNRULDW, which you will arrange to get the solution.
+
+
+
+
+Solution:
+WANDERLUST
+
+
+
+Thanks to Shannon McDowell for this puzzle.
+Be sure to keep an eye out for Conundrum, coming soon from Maple Games!
+
+
+
+
+© Copyright 2019 CryptexHunt.com. Cryptex is a registered trademark of Cryptex.org.                       9
+Cryptex Magazine: Cryptex Hunt 2019 Solution Guide
+
+Lexicon Green
+
+As indicated in the story, the approach is to identify a word that relates to all the Professor’s interests
+that Lex observes.
+
+        Golf
+
+        Fundraiser
+
+        Servo-motor
+
+        Car
+
+        Road
+
+
+
+You also know from the story that the Professor’s Cryptex is a 5-ring model.
+
+
+
+
+Solution:
+DRIVE
+
+
+
+
+© Copyright 2019 CryptexHunt.com. Cryptex is a registered trademark of Cryptex.org.                           10
+Cryptex Magazine: Cryptex Hunt 2019 Solution Guide
+
+Cryptexes In The Wild
+
+The description of each scene refers to an item, a book, or a movie, many of them with long titles.
+
+The intro text states that you are seeing these Cryptexes from behind, leading you to wonder what you
+might see if you were to see them from the other side. Each of the Cryptexes pictured is rotated by an
+offset of almost 13, give or take, revealing a number spelled out on the opposite side.
+
+
+
+ Theme         Answer                                  Back       Shift      Front    Num      LTR
+               Dr. Strangelove or: How I Learned to
+ Bunker                                               UXUITTC      15       FIFTEEN   15        R
+               Stop Worrying and Love the Bomb
+ Egyptian      Rosetta Stone                           ESCPP       11       THREE      3        S
+ Laboratory    The Andromeda Strain                    HKSZJS      14      TWELVE     12        A
+ Submarine     The Hunt For Red October                RVTUG       13       EIGHT      8        F
+ Prison        The Shawshank Redemption               JMUDJO       16      TWENTY     20        I
+               World War Z: An Oral History of the
+ Zombie                                               EQHQZ        12       SEVEN      7        A
+               Zombie War
+
+
+Use the number revealed by the Cryptex to index against the item name or title referenced by the
+setting. You can then sort the answers by the amount of the shift (or the value of the index, it works
+either way) to get the solution.
+
+
+
+
+Solution:
+SAFARI
+
+
+
+
+© Copyright 2019 CryptexHunt.com. Cryptex is a registered trademark of Cryptex.org.                      11
+Cryptex Magazine: Cryptex Hunt 2019 Solution Guide
+
+Puzzle Connection
+
+Crossword answers:
+      Across                                            Down
+  1   Bard's bother                    ADO         1    Cry of discovery                  AHA
+  3   Gridiron grp.                    NFL         2    Earthy pigment                    OCHRE
+  6   OSS successor                    CIA         3    Retired iPod                      NANO
+  7   Ketchum                          ASH         4    Young chap                        LAD
+  8   All time low                     NADIR       5    Immature insect                   LARVA
+ 10   Radical                          ROOT        9    NASDAQ's Altigen Communications   ATGN
+ 12   Municipality of Kya Lighthouse   OSEN        11   Fairy tale opener                 ONCE
+ 13   Greek mother Earth               GAEA        12   Western                           OATER
+ 15   Six-pack containers              CANS        14   Furrier John Jacob                ASTOR
+ 17   Stopwatch                        TIMER       16   Legolas horse                     AROD
+ 19   Requirement to tango             TWO         18   Deface                            MAR
+ 21   “Deep Space Nine” shapeshifter   ODO         20   Brit. ref.                        OED
+ 22   Vermillion                       RED
+ 23   Bar or pole                      ROD
+
+
+
+
+Having filled in the crossword and solved the sudoku, noticing that both grids are 9x9, the next step is
+to go row-by-row. For each highlighted sudoku number, extract the letter in that column from the
+corresponding column in the crossword. For example, the first highlighted 7 references the “L” in
+“NFL”; the 5 below it references the “A” in “CIA”, and so on.
+
+This extraction will form a phrase read from top to bottom:
+
+LAST NAME OF CROSSWORD INVENTOR
+
+
+
+Solution:
+WYNNE
+
+
+
+
+© Copyright 2019 CryptexHunt.com. Cryptex is a registered trademark of Cryptex.org.                        12
+Cryptex Magazine: Cryptex Hunt 2019 Solution Guide
+
+The Enigma Emporium
+
+This puzzle ad is courtesy of Logan Giannini.
+
+
+
+The puzzle gives the following hints:
+
+       I for one
+
+       Oh it’s nothing
+
+       It’s all backward
+
+
+
+Going through the message and extracting all the Is as 1 and Os as 0, you get the following:
+101 001 1011 10011 0100 00110 00101 1101 1001 110 111 1011 000 001 110
+
+
+
+Reverse the string, break it into octets, then convert to ASCII:
+
+
+
+                                        Binary      Dec         ASCII
+                                     01110000       112            p
+                                     01101111       111            o
+                                     01110011       115            s
+                                     01110100       116            t
+                                     01100001        97            a
+                                     01100111       103            g
+                                     01100101       101            e
+
+
+
+
+Solution:
+POSTAGE
+
+
+
+
+Thanks to Logan Giannini for this puzzle.
+Be sure to check out “Wish You Were Here” from The Enigma Emporium, along with their newest,
+Blowback, currently on Kickstarter!
+
+
+
+
+© Copyright 2019 CryptexHunt.com. Cryptex is a registered trademark of Cryptex.org.            13
+Cryptex Magazine: Cryptex Hunt 2019 Solution Guide
+
+Dear Manpans
+
+As noted in the last question and response for “Missing”, something is missing from the responses to
+each of the questions.
+
+This type of composition is known as a lipogram, which is where certain letters are omitted. To decode
+this puzzle, you need to examine each response (not including the question), and find which letter does
+not occur.
+
+
+
+        Response to                  Missing Letter
+        Passwordless                       T
+        Second Fiddle                      R
+        Knock-off Failure                  Y
+        Cryptex Fanatic                    S
+        Missing                            T
+
+
+
+
+Solution
+TRYST
+
+
+
+
+© Copyright 2019 CryptexHunt.com. Cryptex is a registered trademark of Cryptex.org.                       14
+Cryptex Magazine: Cryptex Hunt 2019 Solution Guide
+
+The Werewolf Experiment
+
+This puzzle ad is courtesy of Julianna & Ariel.
+
+For this puzzle, you’ll notice that the symbols arched across the top (and bottom) are also represented
+in the row that occurs over the phrase “ESCAPE ROOM”. You’ll also notice that the row of symbols
+aligns with the phrase beneath it, including the doubled moon icons that are lined up over the double
+Os in “ROOM”.
+
+Mapping the symbols to the letters, you can decode the word in the arch.
+
+
+
+
+Solution:
+SCARE
+
+
+
+Thanks to Julianna & Ariel for this puzzle.
+Be sure to check out Escape Room in a Box: The Werewolf Experiment!
+
+
+
+
+© Copyright 2019 CryptexHunt.com. Cryptex is a registered trademark of Cryptex.org.                       15
+Cryptex Magazine: Cryptex Hunt 2019 Solution Guide
+
+4 Uses for a Cryptex
+
+Each of the pictures has a flag somewhere in the background. Also, the sentence capital letters of the
+introduction spell out the phrase: ISO CC, a reference to ISO country codes.
+
+
+
+ Picture               Flag                             Country                       Country Code
+
+
+
+ Bookend                                                Saudia Arabia                     SA
+
+
+
+
+ Paperweight                                            Latvia                            LV
+
+
+
+
+ Doorstop                                               Antigua and Barbuda               AG
+
+
+
+
+ Nutcracker                                             Spain                             ES
+
+
+
+
+Solution:
+SALVAGES
+
+
+
+
+© Copyright 2019 CryptexHunt.com. Cryptex is a registered trademark of Cryptex.org.                      16
+Cryptex Magazine: Cryptex Hunt 2019 Solution Guide
+
+An Interview with Justin Nevins
+
+This puzzle features gray/black separator bars preceding each interview question. The Editor’s Note at
+the end states that the interview questions (not the responses) are what’s relevant to the puzzle.
+
+The gray/black separator bars are in three shades of gray, providing a number in ternary (base 3), with
+a divider between two sequences of gray/black.
+
+The light gray shade indicates 0, medium gray is 1, and black is 2.
+
+Convert the ternary numbers and the index them into the following question to extract the letters.
+
+ Q.                 Bar                    Ternary       Decimal      Letter1 Letter2
+  1                                      0212, 0012        23, 5         T            E
+  2                                      1101, 0021        37, 7         H            T
+  3                                      0200, 0021        18, 7         E            O
+  4                                      0001, 0022         1, 8         B            F
+  5                                      0120, 0211        15, 22        I            S
+  6                                      0121, 0120        16, 15        R            U
+  7                                      0100, 0221        9, 25         T            P
+  8                                      1012, 0021        32, 7         H            E
+  9                                      0101, 0022        10, 8         P            R
+ 10                                      0112, 1200        14, 45        L            M
+ 11                                      0012, 1222        5, 53         A            A
+ 12                                      0100, 1010        9, 30         N            N
+
+
+Extraction:
+
+THE BIRTH PLANET OF SUPERMAN
+
+
+
+
+Solution:
+KRYPTON
+
+
+
+
+© Copyright 2019 CryptexHunt.com. Cryptex is a registered trademark of Cryptex.org.                       17
+Cryptex Magazine: Cryptex Hunt 2019 Solution Guide
+
+Cryptexes and Escape Rooms
+
+The intro text gives hints to the zodiac, and all the escaper types mentioned are references to
+astrological signs. It also says to focus on the month when each sign starts.
+
+The final clue in the closing sentence indicates the importance of the brightest star in each constellation.
+All this information can be collected from Wikipedia.
+
+
+
+ Clues                       Sign          Start      Month     Brightest star           Ltr
+ like a lion                  Leo          Jul 23       7       Regulus                   S
+ hunt, bowstring           Sagittarius     Nov 23      11       Kaus Australis            L
+ bullish                    Taurus         Apr 21       4       Aldebaran                 E
+ pair up                    Gemini         May 22       5       Pollux                    U
+ flounder like a fish        Pisces        Feb 20       2       Eta Piscium               T
+ weigh, balance              Libra         Sep 24       9       Zubeneschamali            H
+
+
+
+
+Solution:
+SLEUTH
+
+
+
+
+© Copyright 2019 CryptexHunt.com. Cryptex is a registered trademark of Cryptex.org.                            18
+Cryptex Magazine: Cryptex Hunt 2019 Solution Guide
+
+Which Prexcyt Dragon are You?
+
+The first step in this puzzle is to identify which answers went together.
+ A.                     B.                      C.                         D.                       E.
+ Anfernee Hardaway      One of the Gellers      Adolphe Cointreau          John Smith               Table tennis balls
+                        (Monica)                (triple sec liqueur)       (I Am Number Four)       everywhere!
+ The cohost of          Kiwane Garris           Paul and Raymond           The Power Rangers        Saul T. Peter
+ Hannibal B.                                    Lillet                     Super Megaforce (as
+ (Eric A)                                       (rose wine liqueur)        seen in episode 9)
+                                                                           (The Power of Six)
+ Aqua fortis            Tracy McGrady           The fictional journalist   Mercury-Atlas 9          Grand wormwood
+                                                Skeeter                    (The Rise of Nine)       (ingredient in
+                                                (Rita)                                              absinthe)
+ Today is September     Everything is shaking   The smell of fertilizer    Doug Christie, shaking   An attractive woman
+ 22, 2005                                                                  his head in              singing, “What’s love
+ (The Fall of Five)                                                        disappointment           got to do with it?”
+                                                                                                    (Tina)
+ The Revenge of Seven   Miss Congeniality       Green Eyeshade             Beefeater                Trevor Ariza
+                        (Sandra)                                           (Gin)
+ Maurice Evans          Magdalene               Lemon Juice                Gunpowder                T. Hef Ate Often
+                        (Mary)                                                                      (The Fate of Ten)
+ Flash paper            Cocktail glass          Shylock’s daughter         Rafer Alston             OneUnited Bank
+                                                (Jessica)                                           (United as One)
+
+
+
+Next, you identify how the common answers relate to the respective dragon head and the specific
+common bond. Each bond was a specific reference that includes a number:
+
+ Dragon          Common bond                                               Word                     Num      Ltr
+ Ice             Orlando Magic players who wore #1 jersey                  MAGIC                     1        M
+ Poison          Ingredients to Corpse Reviver #2                          CORPSE REVIVER            2        O
+ Fire            Explosive component, Nitrate NO3                          NITRATE                   3        T
+ Acid            I Am Number Four series by Pittacus Lore                  PITTICUS LORE             4        T
+ Electricity     Women named in the song Mambo No. 5                       MAMBO                     5        O
+
+
+Finally, looking at the Bonus question, it says:
+
+A squared plus B squared equals C squared – reference to the Pythagorean Theorem
+
+Combined with MOTTO, you can search for the motto of the Pythagoreans to get the solution.
+
+
+
+
+Solution:
+ALL IS NUMBER
+
+
+
+
+© Copyright 2019 CryptexHunt.com. Cryptex is a registered trademark of Cryptex.org.                                         19
+Cryptex Magazine: Cryptex Hunt 2019 Solution Guide
+
+Cryptexflix
+
+These satirical movie posters feature David and Lisa Spira from Room Escape Artist, as noted in the
+“Special Showcase”, and each poster has an award on them indicating “Fan Pick”, New Orleans and
+2018.
+
+On the Room Escape Artist site, you can find information about their “Escape, Immerse, Explore” tours,
+including details from the 2018 New Orleans tour.
+
+Each of the movie posters relates to one of the rooms listed as being a top pick by the people who
+participated in the tour. Each poster also mentions one or more numbers (including the stars):
+
+
+
+       Poster        Room                                      Numbers          Letters
+       House         French Quarter House of Curiosities       5, 6, 9, 10       CHAR
+       Agent         Agent 13                                  5                    T
+       Inventor      Inventor’s Attic                          4, 8                ER
+       Tomb          Tomb of Anubis                            4, 9, 12           BUS
+       Plane         Hijacked                                  5                    C
+       Entranced     Spellbound                                7                   O
+
+
+From the extraction, you get: CHARTER BUS CO.
+
+Pictured on the page (shown right) is one of the charter
+buses.
+
+
+
+
+Solution:
+GRAY LINE
+
+
+
+
+© Copyright 2019 CryptexHunt.com. Cryptex is a registered trademark of Cryptex.org.                      20
+Cryptex Magazine: Cryptex Hunt 2019 Solution Guide
+
+Room Escape Divas
+
+This puzzle has an odd layout with areas marked on the top and bottom and along the sides. If you
+connect the top and bottom markings, it highlights the words “mark” and “spot” – a reference to
+“x marks the spot”.
+
+Connect the lines on the left and right sides of the page to make what appear to be a musical grand
+staff.
+
+You will also note that the three rightmost Xs happen to fall exactly on the lines, indicating that the last
+line of text would occur on the ledger line that’s between the upper and lower staff.
+
+Since you have an upper staff and a lower staff, the upper staff is most likely treble. Finding the Xs
+gives the notes C C E G G.
+
+Humming or playing or searching the web for this sequence of notes will lead you to the Blue Danube
+Waltz.
+
+
+
+
+Solution:
+BLUE DANUBE
+
+
+
+
+© Copyright 2019 CryptexHunt.com. Cryptex is a registered trademark of Cryptex.org.                            21
+Cryptex Magazine: Cryptex Hunt 2019 Solution Guide
+
+How to Make a Cryptex
+
+
+The instructions on the bottom let you know that once you’ve read the magazine “backwards and
+forwards” you should be able to fill in the Cryptex code rings.
+
+This puzzle is a meta, involving the answers from all the other puzzles in the magazine. Besides the
+“IN BETWEEN” text (shaded out with a different color), the letters provided guide you into which
+answers go into which slots. Some words need to be placed backward to fit.
+
+Note: the solutions to the barcode, the Cluekeeper start code, and the PDF password were not part of
+this puzzle, as they were outside the magazine.
+
+
+
+                G    R   E    N   D    E    L   T    S    U    L   R    E   D    N    A   W
+                E    V   I    R   D    A   W     E   S    O   M    E    E   N    N    Y   W
+                G    R   A    Y    L   I    N    E   I    S   E    G    A   V    L    A   S
+                P   O    S    T   A    G    E   N    B    E   T    W    T   R    Y    S   T
+                B    L   U    E   D    A    N   U    B    E   E    S    L   E    U    T   H
+                M    A   R    V    E   L    A   T    H    E   N    S    S   C    A    R   E
+                I    R   A    F   A    S    R    E   B    M   U    N    S    I   L    L   A
+                A    L   L    A   H    L    A   V    E    N   N    O    T   P    Y    R   K
+
+
+The orientation didn’t matter for AWESOME, ATHENS, and TRYST.
+
+The next step was to picture the magazine wrapping around like a Cryptex and to picture what letter
+would appear “in between” (as clued by the grid) the right edge and the left edge.
+
+
+                                  W X Y Z A B C D E F G
+                                    W X Y Z A B C D E
+                              S T U V W X Y Z A B C D E F G
+                      T U V W X Y Z A B C D E F G H I J K L M N O P
+                        H I J K L M N O P Q R S T U V W X Y Z A B
+                                    E F G H I J K L M
+                                    A B C D E F G H I
+                            K L M N O P Q R S T U V W X Y Z A
+
+
+
+
+Solution:
+BAZERIES
+
+
+
+© Copyright 2019 CryptexHunt.com. Cryptex is a registered trademark of Cryptex.org.                    22
+

@@ -1,0 +1,56 @@
+HTTP/2 301 
+cache-control: max-age=21600, public
+content-language: en
+content-type: text/html; charset=utf-8
+etag: "1788587427"
+expires: Sun, 19 Nov 1978 05:00:00 GMT
+last-modified: Sat, 05 Sep 2026 05:50:27 GMT
+location: https://www.audubon.org/art/birds-of-america?page=0
+server: nginx
+strict-transport-security: max-age=300
+x-content-type-options: nosniff
+x-drupal-cache: MISS
+x-frame-options: SAMEORIGIN
+x-generator: Drupal 11 (https://www.drupal.org)
+x-pantheon-styx-hostname: styx-us-a-69558586b-wc589
+x-redirect-id: 27528
+x-styx-req-id: b2364a41-a8ed-11f1-af23-1e327299b55a
+age: 0
+accept-ranges: bytes
+via: 1.1 varnish, 1.1 varnish, 1.1 varnish, 1.1 varnish
+date: Sat, 05 Sep 2026 05:50:27 GMT
+x-served-by: cache-chi-kmdw8640020-CHI, cache-del-vibw2260038-DEL, cache-del-vibw2260034-DEL, cache-del-vibw2260034-DEL
+x-cache: MISS, MISS, MISS, MISS
+x-cache-hits: 0, 0, 0, 0
+x-timer: S1788587427.417410,VS0,VE407
+vary: Cookie, Cookie, Cookie
+content-length: 450
+
+HTTP/2 200 
+cache-control: max-age=21600, public
+content-language: en
+content-type: text/html; charset=UTF-8
+etag: W/"1788587428"
+expires: Sun, 19 Nov 1978 05:00:00 GMT
+last-modified: Sat, 05 Sep 2026 05:50:28 GMT
+server: nginx
+strict-transport-security: max-age=300
+x-content-type-options: nosniff
+x-drupal-cache: MISS
+x-drupal-dynamic-cache: UNCACHEABLE (poor cacheability)
+x-frame-options: SAMEORIGIN
+x-generator: Drupal 11 (https://www.drupal.org)
+x-node-feed: https://www.audubon.org/export/node/53578
+x-pantheon-styx-hostname: styx-us-a-69558586b-vnhmh
+x-styx-req-id: b278405f-a8ed-11f1-af68-7ae1699bb371
+age: 0
+accept-ranges: bytes
+via: 1.1 varnish, 1.1 varnish, 1.1 varnish, 1.1 varnish
+date: Sat, 05 Sep 2026 05:50:28 GMT
+x-served-by: cache-chi-klot8100078-CHI, cache-del-vibw2260032-DEL, cache-del-vibw2260034-DEL, cache-del-vibw2260034-DEL
+x-cache: MISS, MISS, MISS, MISS
+x-cache-hits: 0, 0, 0, 0
+x-timer: S1788587428.827848,VS0,VE738
+vary: Accept-Encoding, Cookie, Cookie, Cookie
+content-length: 634376
+

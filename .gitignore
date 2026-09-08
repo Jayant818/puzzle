@@ -1,0 +1,43 @@
+# Regenerable bulk. Nothing here is original research output — every item is
+# either re-downloadable from a public URL or reproducible with ffmpeg/yt-dlp.
+# LLM_REVIEW_PACKET.md section 14.4 lists each one and how to re-obtain it.
+
+# --- Source media (yt-dlp / ffmpeg) ---
+*.webm
+*.mp4
+*.mp3
+*.wav
+*.raw
+
+# # --- Public downloads ---
+puzzle.pdf
+CyberChef_*.zip
+work/cc_official/
+work/cyberchef/
+work/colin/cryptex2019_mag.pdf
+
+# # --- Derived frames, contact sheets, scans ---
+work/frames/
+work/frames4k/
+work/colin/frames_howto/
+work/colin/frames_ramb/
+work/yt/mb4th_scan/
+work/yt/venv/
+
+# # --- yt-dlp comment blobs (2-24 MB each, no research value) ---
+# work/yt/channel4_1atCTSRJHH0.info.json
+# work/yt/channel4_nH9R0Jpqeqc.info.json
+# work/yt/channel4_O6wTcrhkw4o.info.json
+# work/yt/channel4_sKqFzjkiwF8.info.json
+# work/yt/channel4_vA6en6pzhwk.info.json
+# work/yt/fourth_latest_iYlODtkyw_I.info.json
+# work/yt/fourth_latest_vyBK-sVBfqg.info.json
+# work/yt/mb2_fourth_full.info.json
+# work/yt/owl14_gateway.info.json
+
+# # --- Partial OCR run, superseded (stopped at 590 of 1867 frames) ---
+# work/ocr_colin_howto.json
+
+# # --- Python ---
+# __pycache__/
+# *.pyc

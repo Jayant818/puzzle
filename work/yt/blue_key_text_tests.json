@@ -1,0 +1,51 @@
+[
+  {
+    "file": "work/yt/mb4th.en.vtt",
+    "cues": 96,
+    "deduplicated_words": 360,
+    "tests": 2199,
+    "matches": []
+  },
+  {
+    "file": "work/yt/mb2_fourth.en.vtt",
+    "cues": 4,
+    "deduplicated_words": 5,
+    "tests": 0,
+    "matches": []
+  },
+  {
+    "file": "work/yt/mb2_fourth_full.en.vtt",
+    "cues": 268,
+    "deduplicated_words": 1660,
+    "tests": 8846,
+    "matches": []
+  },
+  {
+    "file": "work/yt/xor_fourth.en.vtt",
+    "cues": 48,
+    "deduplicated_words": 26,
+    "tests": 428,
+    "matches": []
+  },
+  {
+    "file": "work/yt/fourth_latest_iYlODtkyw_I.en.vtt",
+    "cues": 2808,
+    "deduplicated_words": 6867,
+    "tests": 51987,
+    "matches": []
+  },
+  {
+    "file": "work/yt/fourth_latest_vyBK-sVBfqg.en.vtt",
+    "cues": 474,
+    "deduplicated_words": 3447,
+    "tests": 17747,
+    "matches": []
+  },
+  {
+    "file": "work/yt/yt_fourth_ever.en.vtt",
+    "cues": 36,
+    "deduplicated_words": 85,
+    "tests": 574,
+    "matches": []
+  }
+]

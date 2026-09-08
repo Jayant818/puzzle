@@ -1,0 +1,256 @@
+{
+  "scope": "Public full-video tabs, both end orderings; captions are approximate ASR. No claim about untested visual/audio extractions or unavailable uploads.",
+  "rail_fence": {
+    "models_tested": 2408,
+    "matches": []
+  },
+  "six_channels": {
+    "oldest": {
+      "videos": [
+        {
+          "id": "Y74b7WlcEpk",
+          "channel": "MrBeast",
+          "title": "More birds IN MINECRAFT!!",
+          "upload_date": "20130112",
+          "title_initial": "M",
+          "title_last_initial": "M",
+          "title_fourth_initial": "M",
+          "title_letters": "MOREBIRDSINMINECRAFT",
+          "spoken_first": "ALL",
+          "spoken_ninth": "MOD",
+          "spoken_last": "WATCHING",
+          "target_terms": []
+        },
+        {
+          "id": "jaRfBM7ESfc",
+          "channel": "MrBeast 2",
+          "title": "$1 vs $10,000 Commercial",
+          "upload_date": "20240309",
+          "title_initial": "1",
+          "title_last_initial": "C",
+          "title_fourth_initial": "C",
+          "title_letters": "VSCOMMERCIAL",
+          "spoken_first": "WE",
+          "spoken_ninth": "IS",
+          "spoken_last": "VIDEO",
+          "target_terms": []
+        },
+        {
+          "id": "CSSsPVweLkc",
+          "channel": "MrBeast Gaming",
+          "title": "Last to Survive Random Blocks wins $10,000 - Challenge",
+          "upload_date": "20200520",
+          "title_initial": "L",
+          "title_last_initial": "C",
+          "title_fourth_initial": "R",
+          "title_letters": "LASTTOSURVIVERANDOMBLOCKSWINSCHALLENGE",
+          "spoken_first": "WELCOME",
+          "spoken_ninth": "CUT",
+          "spoken_last": "IT",
+          "target_terms": []
+        },
+        {
+          "id": "67MptG3oS-A",
+          "channel": "Beast Reacts",
+          "title": "Super Satisfying Kinetic Sand DIY",
+          "upload_date": "20181107",
+          "title_initial": "S",
+          "title_last_initial": "D",
+          "title_fourth_initial": "S",
+          "title_letters": "SUPERSATISFYINGKINETICSANDDIY",
+          "spoken_first": "IF",
+          "spoken_ninth": "PEOPLE",
+          "spoken_last": "FAILURE",
+          "target_terms": [
+            "HARRY",
+            "POTTER"
+          ]
+        },
+        {
+          "id": "nl79pan4h6U",
+          "channel": "Beast Philanthropy",
+          "title": "Giving Away 50,000 Cookies!",
+          "upload_date": "20210624",
+          "title_initial": "G",
+          "title_last_initial": "C",
+          "title_fourth_initial": "C",
+          "title_letters": "GIVINGAWAYCOOKIES",
+          "spoken_first": "TODAY",
+          "spoken_ninth": "ONE",
+          "spoken_last": "SAD",
+          "target_terms": []
+        },
+        {
+          "id": "sKqFzjkiwF8",
+          "channel": "Beast Animations",
+          "title": "MrBeast Lab - Ep 3: Swarmbies",
+          "upload_date": "20251102",
+          "title_initial": "M",
+          "title_last_initial": "S",
+          "title_fourth_initial": "3",
+          "title_letters": "MRBEASTLABEPSWARMBIES",
+          "spoken_first": "UGH",
+          "spoken_ninth": "RIDICULOUS",
+          "spoken_last": "BITING",
+          "target_terms": []
+        }
+      ],
+      "extractions": {
+        "title_initial": {
+          "original": "M1LSGM",
+          "key": "1GMMLS",
+          "inverse": "LMGM1S"
+        },
+        "title_last_initial": {
+          "original": "MCCDCS",
+          "key": "CCMSCD",
+          "inverse": "CMCSCD"
+        },
+        "title_fourth_initial": {
+          "original": "MCRSC3",
+          "key": "CCM3RS",
+          "inverse": "RMC3CS"
+        },
+        "spoken_first": {
+          "original": "AWWITU",
+          "key": "WTAUWI",
+          "inverse": "WATUWI"
+        },
+        "spoken_ninth": {
+          "original": "MICPOR",
+          "key": "IOMRCP",
+          "inverse": "CMORIP"
+        },
+        "spoken_last": {
+          "original": "WVIFSB",
+          "key": "VSWBIF",
+          "inverse": "IWSBVF"
+        },
+        "title_index_key": "OMLSVE",
+        "title_index_inverse": "RVTSIE"
+      }
+    },
+    "newest": {
+      "videos": [
+        {
+          "id": "iYlODtkyw_I",
+          "channel": "MrBeast",
+          "title": "Survive 30 Days Chained To A Stranger, Win $250,000",
+          "upload_date": "20260627",
+          "title_initial": "S",
+          "title_last_initial": "2",
+          "title_fourth_initial": "C",
+          "title_letters": "SURVIVEDAYSCHAINEDTOASTRANGERWIN",
+          "spoken_first": "TAKE",
+          "spoken_ninth": "IF",
+          "spoken_last": "YAAAAYYY",
+          "target_terms": []
+        },
+        {
+          "id": "vyBK-sVBfqg",
+          "channel": "MrBeast 2",
+          "title": "Last Person Standing Wins $5,000,000",
+          "upload_date": "20260301",
+          "title_initial": "L",
+          "title_last_initial": "5",
+          "title_fourth_initial": "W",
+          "title_letters": "LASTPERSONSTANDINGWINS",
+          "spoken_first": "I",
+          "spoken_ninth": "IS",
+          "spoken_last": "YOU",
+          "target_terms": []
+        },
+        {
+          "id": "nH9R0Jpqeqc",
+          "channel": "MrBeast Gaming",
+          "title": "10 YouTubers vs 2 Secret Traitors",
+          "upload_date": "20260704",
+          "title_initial": "1",
+          "title_last_initial": "T",
+          "title_fourth_initial": "2",
+          "title_letters": "YOUTUBERSVSSECRETTRAITORS",
+          "spoken_first": "IN",
+          "spoken_ninth": "STARTING",
+          "spoken_last": "SUBSCRIBE",
+          "target_terms": []
+        },
+        {
+          "id": "1atCTSRJHH0",
+          "channel": "Beast Reacts",
+          "title": "Rarest Things On Earth!",
+          "upload_date": "20230217",
+          "title_initial": "R",
+          "title_last_initial": "E",
+          "title_fourth_initial": "E",
+          "title_letters": "RARESTTHINGSONEARTH",
+          "spoken_first": "THIS",
+          "spoken_ninth": "THIS",
+          "spoken_last": "THEM",
+          "target_terms": []
+        },
+        {
+          "id": "O6wTcrhkw4o",
+          "channel": "Beast Philanthropy",
+          "title": "Rescuing Child Slaves in Africa",
+          "upload_date": "20250406",
+          "title_initial": "R",
+          "title_last_initial": "A",
+          "title_fourth_initial": "I",
+          "title_letters": "RESCUINGCHILDSLAVESINAFRICA",
+          "spoken_first": "IN",
+          "spoken_ninth": "FALL",
+          "spoken_last": "AWESOME",
+          "target_terms": []
+        },
+        {
+          "id": "vA6en6pzhwk",
+          "channel": "Beast Animations",
+          "title": "MrBeast Lab - Ep 8: Banana Blaster to the Rescue!",
+          "upload_date": "20251207",
+          "title_initial": "M",
+          "title_last_initial": "R",
+          "title_fourth_initial": "8",
+          "title_letters": "MRBEASTLABEPBANANABLASTERTOTHERESCUE",
+          "spoken_first": "NOT",
+          "spoken_ninth": "TO",
+          "spoken_last": "SORRY",
+          "target_terms": []
+        }
+      ],
+      "extractions": {
+        "title_initial": {
+          "original": "SL1RRM",
+          "key": "LRSM1R",
+          "inverse": "1SRMLR"
+        },
+        "title_last_initial": {
+          "original": "25TEAR",
+          "key": "5A2RTE",
+          "inverse": "T2AR5E"
+        },
+        "title_fourth_initial": {
+          "original": "CW2EI8",
+          "key": "WIC82E",
+          "inverse": "2CI8WE"
+        },
+        "spoken_first": {
+          "original": "TIITIN",
+          "key": "IITNIT",
+          "inverse": "ITINIT"
+        },
+        "spoken_ninth": {
+          "original": "IISTFT",
+          "key": "IFITST",
+          "inverse": "SIFTIT"
+        },
+        "spoken_last": {
+          "original": "YYSTAS",
+          "key": "YAYSST",
+          "inverse": "SYASYT"
+        },
+        "title_index_key": "UPYTSE",
+        "title_index_inverse": "RLUTEE"
+      }
+    }
+  }
+}
